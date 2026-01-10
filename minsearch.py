@@ -114,3 +114,18 @@ class Index:
         top_docs = [self.docs[i] for i in top_indices if scores[i] > 0]
 
         return top_docs
+
+
+class VectorSearch:
+    def __init__(self):
+        self.vectors = None
+        self.docs = None
+
+    def fit(self, vectors, docs):
+        self.vectors = np.array(vectors)
+        self.docs = docs
+
+    def search(self, query_vector, k=5):
+        scores = cosine_similarity([query_vector], self.vectors)[0]
+        idx = np.argsort(scores)[::-1][:k]
+        return [self.docs[i] for i in idx]
