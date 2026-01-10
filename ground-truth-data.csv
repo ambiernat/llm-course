@@ -1,0 +1,51 @@
+question,course,document
+What is the exact start date and time of the course?,data-engineering-zoomcamp,c02e79ef
+Will the course begin with an Office Hours live session?,data-engineering-zoomcamp,c02e79ef
+"How can I subscribe to the public Google Calendar, and is it desktop-only?",data-engineering-zoomcamp,c02e79ef
+"Where do I register before the course starts, and is there a deadline?",data-engineering-zoomcamp,c02e79ef
+"Which channels should I join for announcements, such as the Telegram channel and DataTalks.Club's Slack?",data-engineering-zoomcamp,c02e79ef
+What are the prerequisites for enrolling in this course?,data-engineering-zoomcamp,1f6520ca
+Where can I find the official prerequisites for the course?,data-engineering-zoomcamp,1f6520ca
+Is there a specific GitHub page I should check for prerequisites?,data-engineering-zoomcamp,1f6520ca
+Do I need prior experience in programming or data engineering before starting?,data-engineering-zoomcamp,1f6520ca
+Could you share the link to the prerequisites documentation on GitHub?,data-engineering-zoomcamp,1f6520ca
+"If I join after the course starts, am I still allowed to submit the homeworks?",data-engineering-zoomcamp,7842b56a
+Does late enrollment impact my ability to submit assignments?,data-engineering-zoomcamp,7842b56a
+Are there any deadlines for turning in the final projects that I should know about?,data-engineering-zoomcamp,7842b56a
+"Is registration required to submit homeworks, or can I participate without registering?",data-engineering-zoomcamp,7842b56a
+What timing advice is given to avoid leaving final projects until the last minute?,data-engineering-zoomcamp,7842b56a
+"Do I need to wait for a confirmation email after signing up, or can I begin the bootcamp right away?",data-engineering-zoomcamp,0bbf41ec
+"Is registration actually required to participate, or is it only used to gauge interest before the start date?",data-engineering-zoomcamp,0bbf41ec
+"Once I'm accepted, do I get access to course materials and can I submit homework without completing registration?",data-engineering-zoomcamp,0bbf41ec
+"Will my registration status be checked against any roster or list, or is there no such verification?",data-engineering-zoomcamp,0bbf41ec
+What is the purpose of registration in relation to the start date— is it merely to gauge interest before the start date?,data-engineering-zoomcamp,0bbf41ec
+What steps should I take to prepare before the course starts?,data-engineering-zoomcamp,63394d91
+Which accounts and software do I need to set up in advance?,data-engineering-zoomcamp,63394d91
+"Is Python 3 required, and what installation method is recommended?",data-engineering-zoomcamp,63394d91
+Are there any additional tools I should install besides Python and the cloud tools?,data-engineering-zoomcamp,63394d91
+"Should I review the prerequisites and syllabus, and where can I access them?",data-engineering-zoomcamp,63394d91
+"How many Zoom Camps are offered each year, and do they correspond to separate courses?",data-engineering-zoomcamp,2ed9b986
+"What are the monthly windows for Data-Engineering, MLOps, and Machine Learning Zoom Camps?",data-engineering-zoomcamp,2ed9b986
+"Does every Zoom Camp have a single live certification cohort per year, or is that unique to Data-Engineering?",data-engineering-zoomcamp,2ed9b986
+"If I’m not pursuing the certificate, can I join any camp at any time and learn at my own pace?",data-engineering-zoomcamp,2ed9b986
+"Do the cohorts follow the same schedule across the different Zoom Camps, or does it vary by camp?",data-engineering-zoomcamp,2ed9b986
+What are the main differences between the 2024 edition and the previous cohort in terms of tooling and video content?,data-engineering-zoomcamp,93e2c8ed
+"Which automation tool is used in 2024, replacing the one used in 2023?",data-engineering-zoomcamp,93e2c8ed
+Have the Terraform tutorial videos been re-recorded for the current cohort?,data-engineering-zoomcamp,93e2c8ed
+"Which tool did the 2023 cohort use for workflow management, and what is it replaced with in 2024?",data-engineering-zoomcamp,93e2c8ed
+"Is Mage AI now used in 2024 instead of Prefect, replacing the older setup?",data-engineering-zoomcamp,93e2c8ed
+Will the course materials stay accessible after the course ends?,data-engineering-zoomcamp,a482086d
+Can I study at my own pace once the course is finished?,data-engineering-zoomcamp,a482086d
+Will I still be able to review or work on the homework after it ends?,data-engineering-zoomcamp,a482086d
+How can I prepare for the next cohort during the post-course period?,data-engineering-zoomcamp,a482086d
+Am I allowed to start the final capstone project after completing the course?,data-engineering-zoomcamp,a482086d
+Is there support for learners on self-paced study?,data-engineering-zoomcamp,eb56ae98
+Where should I ask questions during self-paced study?,data-engineering-zoomcamp,eb56ae98
+What steps should I take before asking on Slack?,data-engineering-zoomcamp,eb56ae98
+"How do I use the ZoomcampQABot to search for answers, and can I trust its replies?",data-engineering-zoomcamp,eb56ae98
+"If Slack and the FAQ don’t answer my question, what’s next?",data-engineering-zoomcamp,eb56ae98
+Which YouTube playlist should I use as the main source for the data engineering course videos?,data-engineering-zoomcamp,4292531b
+"Are there year-specific playlists for additional videos (like office hours), and how do I access them?",data-engineering-zoomcamp,4292531b
+"What is the URL of the main DATA ENGINEERING playlist, and is there a separate link for year-specific videos?",data-engineering-zoomcamp,4292531b
+How can the Github repository help me jump to the same main playlist using video thumbnails?,data-engineering-zoomcamp,4292531b
+"Where is the year-specific playlist pinned for Slack, and how do I find it there?",data-engineering-zoomcamp,4292531b
