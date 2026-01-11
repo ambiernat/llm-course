@@ -1,306 +1,277 @@
 answer_llm,answer_orig,document,question,course
-"- Go to the course page: http://mlzoomcamp.com/
-- Sign up/start there and scroll down to access the course materials, including your cohort’s year folder.
-- You can also view the syllabus directly: http://mlzoomcamp.com/#syllabus
-- For videos and office hours, you can watch them on YouTube (DTC channel playlists for the course year).","Machine Learning Zoomcamp FAQ
+You can sign up by visiting the course page at http://mlzoomcamp.com/. You can also view the syllabus directly at http://mlzoomcamp.com/#syllabus.,"Machine Learning Zoomcamp FAQ
 The purpose of this document is to capture frequently asked technical questions.
 We did this for our data engineering course and it worked quite well. Check this document for inspiration on how to structure your questions and answers:
 Data Engineering Zoomcamp FAQ
 In the course GitHub repository there’s a link. Here it is: https://airtable.com/shryxwLd0COOEaqXo
 work",0227b872,Where can I sign up for the course?,machine-learning-zoomcamp
-Here is the sign-up link: https://airtable.com/shryxwLd0COOEaqXo,"Machine Learning Zoomcamp FAQ
+"Here is the sign-up link: https://airtable.com/shryxwLd0COOEaqXo
+
+(It’s available in the course GitHub repository.)","Machine Learning Zoomcamp FAQ
 The purpose of this document is to capture frequently asked technical questions.
 We did this for our data engineering course and it worked quite well. Check this document for inspiration on how to structure your questions and answers:
 Data Engineering Zoomcamp FAQ
 In the course GitHub repository there’s a link. Here it is: https://airtable.com/shryxwLd0COOEaqXo
 work",0227b872,Can you provide a link to sign up?,machine-learning-zoomcamp
-"Yes. It’s called the Machine Learning Zoomcamp FAQ, a document that captures frequently asked technical questions about the course.","Machine Learning Zoomcamp FAQ
+"Yes. There is a Machine Learning Zoomcamp FAQ. It’s a document for frequently asked technical questions, and you can access it via the Airtable link referenced in the course GitHub repository: https://airtable.com/shryxwLd0COOEaqXo.","Machine Learning Zoomcamp FAQ
 The purpose of this document is to capture frequently asked technical questions.
 We did this for our data engineering course and it worked quite well. Check this document for inspiration on how to structure your questions and answers:
 Data Engineering Zoomcamp FAQ
 In the course GitHub repository there’s a link. Here it is: https://airtable.com/shryxwLd0COOEaqXo
 work",0227b872,Is there an FAQ for this Machine Learning course?,machine-learning-zoomcamp
-"- Yes. There is an original course GitHub repository that you can fork.
-- You must provide the URL to your own repository (the one containing your homework) to receive a grade.
-- The repository must be public so graders can access it.
-- You may also create your own GitHub repository for the course (notes, homework, projects) and link to it from the original course repo’s Community Notes, then sync via a pull request.","Machine Learning Zoomcamp FAQ
+"Based on the FAQ:
+
+- The course has an original GitHub repository (the original course repo).
+- You can create your own GitHub repository for the course (notes, homework, projects, etc.).
+- You should fork the original course repo and add a link to your notes in your own repo under the Community Notes section, then create a pull request to sync with the original repo.
+- For grading, you must provide the URL to your repository (the one containing your submission).
+
+The FAQ does not mention a separate “sign-up link” repository.","Machine Learning Zoomcamp FAQ
 The purpose of this document is to capture frequently asked technical questions.
 We did this for our data engineering course and it worked quite well. Check this document for inspiration on how to structure your questions and answers:
 Data Engineering Zoomcamp FAQ
 In the course GitHub repository there’s a link. Here it is: https://airtable.com/shryxwLd0COOEaqXo
 work",0227b872,Does this course have a GitHub repository for the sign-up link?,machine-learning-zoomcamp
-"The CONTEXT does not provide guidance on how to structure your questions and answers for the course.
+"Based on the FAQ, questions and answers are organized in a simple, sectioned Q&A format:
 
-What the FAQ does cover includes:
-- Course length: Approximately 4 months.
-- Access: Course materials at mlzoomcamp.com, and review the cohort folder for your year.
-- Time commitment: Around 10 hours per week.
-- Other topics: How projects are graded (based on all scores), language considerations for submissions, etc.
+- Sections/categories are used (e.g., General course-related questions, Miscellaneous).
+- Each entry has:
+  - Question: the exact user-facing question.
+  - Answer: a concise response, sometimes with steps, links, or attribution.
 
-If you’d like, I can help with questions about these other topics from the FAQ.","Machine Learning Zoomcamp FAQ
+Examples of the structure you can mirror:
+- Section: General course-related questions
+  - Question: How long is the course?
+  - Answer: Approximately 4 months, but may take more if you want to do some extra activities (an extra project, an article, etc)
+
+- Section: General course-related questions
+  - Question: I just joined. What should I do next? How can I access course materials?
+  - Answer: Welcome to the course! Go to the course page (http://mlzoomcamp.com/), scroll down and start going through the course materials. Then read everything in the cohort folder for your cohort’s year. Click on the links and start watching the videos. Also watch office hours from previous cohorts. Go to DTC YouTube channel and click on Playlists and search for {course yyyy}. ML Zoomcamp was first launched in 2021. Or you can just use this link: http://mlzoomcamp.com/#syllabus
+
+- Section: Miscellaneous
+  - Question: Do you pass a project based on the average of everyone else’s scores or based on the total score you earn?
+  - Answer: Alexey Grigorev: “It’s based on all the scores to make sure most of you pass.”
+
+How you can structure your own questions and answers similarly:
+- Put the question under a relevant section.
+- Keep the answer concise and provide concrete details, steps, or links when helpful.
+- If an answer is attributed, include the attribution (e.g., name) as shown.","Machine Learning Zoomcamp FAQ
 The purpose of this document is to capture frequently asked technical questions.
 We did this for our data engineering course and it worked quite well. Check this document for inspiration on how to structure your questions and answers:
 Data Engineering Zoomcamp FAQ
 In the course GitHub repository there’s a link. Here it is: https://airtable.com/shryxwLd0COOEaqXo
 work",0227b872,How can I structure my questions and answers for the course?,machine-learning-zoomcamp
-"The course videos are pre-recorded. You can start watching them right now. There are occasional live office hours sessions as well, where questions are answered; those sessions are recorded too. All videos (pre-recorded and office hours) are available in the course playlist on YouTube.","The course videos are pre-recorded, you can start watching the course right now.
+"The course videos are pre-recorded and you can start watching them right now. There are occasional live office hours to answer questions, and those sessions are recorded as well. You can find both the videos and the office hours in the course playlist on YouTube.","The course videos are pre-recorded, you can start watching the course right now.
 We will also occasionally have office hours - live sessions where we will answer your questions. The office hours sessions are recorded too.
 You can see the office hours as well as the pre-recorded course videos in the course playlist on YouTube.",39fda9f0,Are the course videos live or pre-recorded?,machine-learning-zoomcamp
-"You can start watching right now. The course videos are pre-recorded and available in self-paced mode, so you can go through them at any time. You can access them in the YouTube course playlist (which also has the office hours) or via the course page at mlzoomcamp.com.","The course videos are pre-recorded, you can start watching the course right now.
+"Right now. The course videos are pre-recorded and you can start watching today. They’re available in the course playlist on YouTube, and you can watch them even if you didn’t participate in a previous iteration (they’re up-to-date).","The course videos are pre-recorded, you can start watching the course right now.
 We will also occasionally have office hours - live sessions where we will answer your questions. The office hours sessions are recorded too.
 You can see the office hours as well as the pre-recorded course videos in the course playlist on YouTube.",39fda9f0,When can I start watching the course videos?,machine-learning-zoomcamp
-"Yes. The live office hours sessions are recorded. Everything is recorded, so you can watch the office hours later in the course playlist on YouTube along with the pre-recorded videos.","The course videos are pre-recorded, you can start watching the course right now.
+"Yes. The live office hours sessions are recorded. You can watch the recordings in the course playlist on YouTube (along with the pre-recorded videos). Everything is recorded, so you won’t miss anything.","The course videos are pre-recorded, you can start watching the course right now.
 We will also occasionally have office hours - live sessions where we will answer your questions. The office hours sessions are recorded too.
 You can see the office hours as well as the pre-recorded course videos in the course playlist on YouTube.",39fda9f0,Are the live office hours sessions recorded?,machine-learning-zoomcamp
-"- They’re in the course playlist on YouTube.  
-- Go to the DTC YouTube channel, click Playlists, and search for the course year (e.g., the year you’re in). The office hours are included in that playlist and are recorded, alongside the pre-recorded videos. You can also watch office hours from previous cohorts.","The course videos are pre-recorded, you can start watching the course right now.
+In the course playlist on YouTube (the same place you find the pre-recorded videos). The office hours sessions are recorded there.,"The course videos are pre-recorded, you can start watching the course right now.
 We will also occasionally have office hours - live sessions where we will answer your questions. The office hours sessions are recorded too.
 You can see the office hours as well as the pre-recorded course videos in the course playlist on YouTube.",39fda9f0,Where can I find the office hours sessions?,machine-learning-zoomcamp
-"They’re on YouTube in the course playlist. Go to the DTC YouTube channel, click Playlists, and select the playlist for your course year (e.g., {course yyyy}) to access the pre-recorded videos (office hours are included as well). You can also start from the course page at mlzoomcamp.com/#syllabus.","The course videos are pre-recorded, you can start watching the course right now.
+"You can access the pre-recorded videos in the course playlist on YouTube. The office hours are included there as well. To find them, go to the DTC YouTube channel, click Playlists, and search for the course year (e.g., {course yyyy}). You can also reach the materials via the course page at http://mlzoomcamp.com/#syllabus.","The course videos are pre-recorded, you can start watching the course right now.
 We will also occasionally have office hours - live sessions where we will answer your questions. The office hours sessions are recorded too.
 You can see the office hours as well as the pre-recorded course videos in the course playlist on YouTube.",39fda9f0,Where can I access the pre-recorded course videos?,machine-learning-zoomcamp
-"Yes. Everything is recorded, including office hours, so you won’t miss anything. You can watch the recordings in the course playlist on YouTube, and you can also ask questions in Slack or submit questions in advance for office hours.","Everything is recorded, so you won’t miss anything. You will be able to ask your questions for office hours in advance and we will cover them during the live stream. Also, you can always ask questions in Slack.",5170565b,Are sessions recorded if I miss one?,machine-learning-zoomcamp
-Yes. You can ask your questions for office hours in advance and they will be covered during the live stream. You can also ask questions in Slack.,"Everything is recorded, so you won’t miss anything. You will be able to ask your questions for office hours in advance and we will cover them during the live stream. Also, you can always ask questions in Slack.",5170565b,Can I ask questions in advance if I can't attend a live stream?,machine-learning-zoomcamp
-"- All sessions are recorded, so you won’t miss the content.
-- You can submit questions in advance for the office hours, and those questions will be covered during the live office hours.
-- You can also ask questions anytime in Slack.","Everything is recorded, so you won’t miss anything. You will be able to ask your questions for office hours in advance and we will cover them during the live stream. Also, you can always ask questions in Slack.",5170565b,How will my questions be addressed if I miss a session?,machine-learning-zoomcamp
-"Yes. Everything is recorded, so you won’t miss anything. You can:
-- Ask your questions for office hours in advance and they will be covered during the live stream
-- Ask questions in Slack if needed.","Everything is recorded, so you won’t miss anything. You will be able to ask your questions for office hours in advance and we will cover them during the live stream. Also, you can always ask questions in Slack.",5170565b,Is there a way to catch up on a missed session?,machine-learning-zoomcamp
-"Yes. Everything is recorded, so you won’t miss anything. You can ask questions for office hours in advance and they will be covered during the live stream. You can also ask questions in Slack.","Everything is recorded, so you won’t miss anything. You will be able to ask your questions for office hours in advance and we will cover them during the live stream. Also, you can always ask questions in Slack.",5170565b,Can I still interact with instructors after missing a session?,machine-learning-zoomcamp
-"The course covers the bare minimum of theory. The focus is on practice, and any theory is presented at an intuitive level only. For example, we won’t derive the gradient update rule for logistic regression; we’ll cover how to use logistic regression and interpret its results. You can see more context here: https://mlbookcamp.com/article/python.","The bare minimum. The focus is more on practice, and we'll cover the theory only on the intuitive level.: https://mlbookcamp.com/article/python
+"Yes. Everything is recorded, so you won’t miss anything. The live office hours are recorded as well, and you can rewatch them in the course playlist on YouTube. You can also ask questions later in Slack.","Everything is recorded, so you won’t miss anything. You will be able to ask your questions for office hours in advance and we will cover them during the live stream. Also, you can always ask questions in Slack.",5170565b,Are sessions recorded if I miss one?,machine-learning-zoomcamp
+"Yes. You can ask your questions for office hours in advance, and we will cover them during the live stream. You can also ask questions in Slack. Everything is recorded, so you won’t miss anything.","Everything is recorded, so you won’t miss anything. You will be able to ask your questions for office hours in advance and we will cover them during the live stream. Also, you can always ask questions in Slack.",5170565b,Can I ask questions in advance if I can't attend a live stream?,machine-learning-zoomcamp
+"- Everything is recorded, so you won’t miss anything.
+- You can submit questions for office hours in advance, and they’ll be covered during the live stream.
+- You can also ask questions in Slack.","Everything is recorded, so you won’t miss anything. You will be able to ask your questions for office hours in advance and we will cover them during the live stream. Also, you can always ask questions in Slack.",5170565b,How will my questions be addressed if I miss a session?,machine-learning-zoomcamp
+"Yes. Everything is recorded, so you won’t miss anything. You can ask questions for office hours in advance and they’ll be covered during the live stream. You can also ask questions in Slack.","Everything is recorded, so you won’t miss anything. You will be able to ask your questions for office hours in advance and we will cover them during the live stream. Also, you can always ask questions in Slack.",5170565b,Is there a way to catch up on a missed session?,machine-learning-zoomcamp
+"Yes. Everything is recorded, so you won’t miss content. You can:
+-Ask questions for office hours in advance and they’ll be covered during the live stream.
+-Ask questions in Slack at any time.
+Office hours sessions are recorded too, so you can review them later or still get answers.","Everything is recorded, so you won’t miss anything. You will be able to ask your questions for office hours in advance and we will cover them during the live stream. Also, you can always ask questions in Slack.",5170565b,Can I still interact with instructors after missing a session?,machine-learning-zoomcamp
+"Very little theoretical content. The course covers theory only at the intuitive level (bare minimum) and emphasizes practice. For example, we won’t derive the gradient update rule for logistic regression, but we’ll cover how to use logistic regression and interpret its results.","The bare minimum. The focus is more on practice, and we'll cover the theory only on the intuitive level.: https://mlbookcamp.com/article/python
 For example, we won't derive the gradient update rule for logistic regression (there are other great courses for that), but we'll cover how to use logistic regression and make sense of the results.",ecca790c,How much theoretical content is there in the course?,machine-learning-zoomcamp
-"No. The course emphasizes practice with theory kept at an intuitive level, and it specifically states that it won’t derive the gradient update rule for logistic regression. You’ll learn how to use logistic regression and interpret its results instead.","The bare minimum. The focus is more on practice, and we'll cover the theory only on the intuitive level.: https://mlbookcamp.com/article/python
+No. The course focuses on practice with theory kept to an intuitive level. We won’t derive the gradient update rule for logistic regression; we’ll cover how to use logistic regression and interpret its results instead. (There are other courses that cover such derivations in detail.),"The bare minimum. The focus is more on practice, and we'll cover the theory only on the intuitive level.: https://mlbookcamp.com/article/python
 For example, we won't derive the gradient update rule for logistic regression (there are other great courses for that), but we'll cover how to use logistic regression and make sense of the results.",ecca790c,Will the course cover theoretical derivations like the gradient update rule for logistic regression?,machine-learning-zoomcamp
-"The course is more focused on practice. Theory is kept to a bare minimum and taught at an intuitive level (e.g., they won’t derive the gradient update for logistic regression, but will show how to use it and interpret the results).","The bare minimum. The focus is more on practice, and we'll cover the theory only on the intuitive level.: https://mlbookcamp.com/article/python
+"The course focuses more on practice. Theory is kept to a bare minimum and taught at an intuitive level—for example, you won’t see a derivation of the logistic regression gradient, but you’ll learn how to use it and interpret the results.","The bare minimum. The focus is more on practice, and we'll cover the theory only on the intuitive level.: https://mlbookcamp.com/article/python
 For example, we won't derive the gradient update rule for logistic regression (there are other great courses for that), but we'll cover how to use logistic regression and make sense of the results.",ecca790c,Is the focus of the course more on practice or theory?,machine-learning-zoomcamp
-"You can find more about the theoretical topics at this link: https://mlbookcamp.com/article/python. The course covers theory only at an intuitive level, and for deeper derivations (e.g., gradient updates for logistic regression) you’d look to other courses.","The bare minimum. The focus is more on practice, and we'll cover the theory only on the intuitive level.: https://mlbookcamp.com/article/python
+"You can find more about the theoretical topics at this article: https://mlbookcamp.com/article/python. The course treats theory only at an intuitive level; for deeper derivations (e.g., gradient updates) there are other great courses you can check out.","The bare minimum. The focus is more on practice, and we'll cover the theory only on the intuitive level.: https://mlbookcamp.com/article/python
 For example, we won't derive the gradient update rule for logistic regression (there are other great courses for that), but we'll cover how to use logistic regression and make sense of the results.",ecca790c,Where can I find more about the theoretical topics not covered in this course?,machine-learning-zoomcamp
-"Yes. The course focuses on practical use and intuitive understanding, and it will cover how to use logistic regression and interpret its results. It won’t derive the gradient update rule, since the emphasis is on intuition rather than full theoretical derivations.","The bare minimum. The focus is more on practice, and we'll cover the theory only on the intuitive level.: https://mlbookcamp.com/article/python
+"Yes. The course will cover how to use logistic regression and how to interpret its results. The theory is taught at an intuitive level (bare minimum), and they won’t derive the gradient update rule.","The bare minimum. The focus is more on practice, and we'll cover the theory only on the intuitive level.: https://mlbookcamp.com/article/python
 For example, we won't derive the gradient update rule for logistic regression (there are other great courses for that), but we'll cover how to use logistic regression and make sense of the results.",ecca790c,Will the course help me understand how to use logistic regression and interpret its results?,machine-learning-zoomcamp
-"Yes. You can take the course even if you don’t know math. The course will cover some linear algebra, but there will be very few formulas and mostly code. If you want a refresher, there are optional videos you can watch (e.g., ML Zoomcamp 1.8 Linear Algebra Refresher or 3Blue1Brown’s Vectors playlist).","Yes! We'll cover some linear algebra in the course, but in general, there will be very few formulas, mostly code.
+"No. Prior math knowledge isn’t required. The course will cover some linear algebra, but there are very few formulas and mostly code. If you want a refresher, you can watch these videos in advance: ML Zoomcamp 1.8 – Linear Algebra Refresher and the 3Blue1Brown “Vectors” chapter. And don’t hesitate to ask the community for help if you have questions.","Yes! We'll cover some linear algebra in the course, but in general, there will be very few formulas, mostly code.
 Here are some interesting videos covering linear algebra that you can already watch: ML Zoomcamp 1.8 - Linear Algebra Refresher from Alexey Grigorev or the excellent playlist from 3Blue1Brown Vectors | Chapter 1, Essence of linear algebra. Never hesitate to ask the community for help if you have any question.
 (Mélanie Fouesnard)",c25b3de4,Is prior knowledge in math necessary for this course?,machine-learning-zoomcamp
-"- Expect some linear algebra content.
-- There will be very few formulas; the course is mostly code-driven.
-- Theory is kept to a bare minimum and taught at an intuitive level.
-- For example, you won’t see derivations like the gradient update rule for logistic regression; you’ll learn how to use logistic regression and interpret the results.","Yes! We'll cover some linear algebra in the course, but in general, there will be very few formulas, mostly code.
+"The course will include some linear algebra, but there will be very few formulas and the emphasis is on code. Theoretical content will be kept to a bare minimum and taught at an intuitive level—focusing on how to use methods and interpret results, not on detailed derivations (e.g., you won’t see a derivation of the gradient update rule for logistic regression).","Yes! We'll cover some linear algebra in the course, but in general, there will be very few formulas, mostly code.
 Here are some interesting videos covering linear algebra that you can already watch: ML Zoomcamp 1.8 - Linear Algebra Refresher from Alexey Grigorev or the excellent playlist from 3Blue1Brown Vectors | Chapter 1, Essence of linear algebra. Never hesitate to ask the community for help if you have any question.
 (Mélanie Fouesnard)",c25b3de4,What type of mathematical content will be covered?,machine-learning-zoomcamp
-"Yes. There are resources available to help with linear algebra.
+"Yes. The course will cover some linear algebra, and there are external resources you can use now:
+- ML Zoomcamp 1.8 – Linear Algebra Refresher by Alexey Grigorev
+- 3Blue1Brown playlist: Vectors | Chapter 1, Essence of Linear Algebra
 
-What’s available:
-- The course will cover some linear algebra, with an emphasis on code rather than formulas.
-- Recommended videos to watch now:
-  - ML Zoomcamp 1.8 - Linear Algebra Refresher (Alexey Grigorev)
-  - 3Blue1Brown: Vectors | Chapter 1, Essence of linear algebra
-- You can also ask the community for help if you have questions.","Yes! We'll cover some linear algebra in the course, but in general, there will be very few formulas, mostly code.
+Also, don’t hesitate to ask the community for help if you have questions.","Yes! We'll cover some linear algebra in the course, but in general, there will be very few formulas, mostly code.
 Here are some interesting videos covering linear algebra that you can already watch: ML Zoomcamp 1.8 - Linear Algebra Refresher from Alexey Grigorev or the excellent playlist from 3Blue1Brown Vectors | Chapter 1, Essence of linear algebra. Never hesitate to ask the community for help if you have any question.
 (Mélanie Fouesnard)",c25b3de4,Are there resources available to help with linear algebra?,machine-learning-zoomcamp
-"Yes. Never hesitate to ask the community for help if you have any question, including math-related ones. The course will cover some linear algebra (mostly with code), and there are recommended videos if you want extra math refreshers.","Yes! We'll cover some linear algebra in the course, but in general, there will be very few formulas, mostly code.
+"Yes. The course encourages you to seek help from the community, and you should never hesitate to ask the community for help if you have any question (including math-related questions).","Yes! We'll cover some linear algebra in the course, but in general, there will be very few formulas, mostly code.
 Here are some interesting videos covering linear algebra that you can already watch: ML Zoomcamp 1.8 - Linear Algebra Refresher from Alexey Grigorev or the excellent playlist from 3Blue1Brown Vectors | Chapter 1, Essence of linear algebra. Never hesitate to ask the community for help if you have any question.
 (Mélanie Fouesnard)",c25b3de4,Can I seek help from the community for math-related questions?,machine-learning-zoomcamp
-"Yes. Here are recommended videos you can watch now:
-- ML Zoomcamp 1.8 - Linear Algebra Refresher by Alexey Grigorev
-- 3Blue1Brown: Vectors | Chapter 1, Essence of linear algebra
+"Yes. Here are some recommended videos you can watch:
 
-Note: the course itself will cover some linear algebra, but there will be very few formulas—mostly code. If you have questions, don’t hesitate to ask the community for help.","Yes! We'll cover some linear algebra in the course, but in general, there will be very few formulas, mostly code.
+- ML Zoomcamp 1.8 - Linear Algebra Refresher by Alexey Grigorev
+- 3Blue1Brown playlist: Vectors | Chapter 1, Essence of linear algebra
+
+Note: The course will cover some linear algebra, but there will be very few formulas and mostly code. If you have questions, the community can help.","Yes! We'll cover some linear algebra in the course, but in general, there will be very few formulas, mostly code.
 Here are some interesting videos covering linear algebra that you can already watch: ML Zoomcamp 1.8 - Linear Algebra Refresher from Alexey Grigorev or the excellent playlist from 3Blue1Brown Vectors | Chapter 1, Essence of linear algebra. Never hesitate to ask the community for help if you have any question.
 (Mélanie Fouesnard)",c25b3de4,Are there any recommended videos for learning linear algebra?,machine-learning-zoomcamp
-"- The process is automated, so you should receive the confirmation email eventually.
-- If you haven’t, check your Gmail Promotions tab and your Spam folder.
-- If you unsubscribed from our newsletter, you won’t get course-related updates.
-- To stay updated anyway, join the Slack channel #course-ml-zoomcamp and the Telegram channel with announcements.","The process is automated now, so you should receive the email eventually. If you haven’t, check your promotions tab in Gmail as well as spam.
+"- This process is automated, so you should receive the confirmation email eventually.
+- If you haven’t gotten it yet, check your Gmail Promotions tab and your Spam folder.
+- If you unsubscribed from our newsletter, you won’t receive course-related updates.
+- Don’t worry—it's not a problem. To stay informed, join the Slack channel #course-ml-zoomcamp and the Telegram channel for announcements.","The process is automated now, so you should receive the email eventually. If you haven’t, check your promotions tab in Gmail as well as spam.
 If you unsubscribed from our newsletter, you won't get course related updates too.
 But don't worry, it’s not a problem. To make sure you don’t miss anything, join the #course-ml-zoomcamp channel in Slack and our telegram channel with announcements. This is enough to follow the course.",6ba259b1,What should I do if I haven't received a confirmation email after filling out the form?,machine-learning-zoomcamp
-"Yes. The confirmation email is automated and you should receive it eventually. If you haven’t seen it, check your Gmail Promotions tab as well as your spam folder. If you’ve unsubscribed from our newsletter, you won’t receive course updates. To stay updated, you can also join the #course-ml-zoomcamp Slack channel and our Telegram announcements channel.","The process is automated now, so you should receive the email eventually. If you haven’t, check your promotions tab in Gmail as well as spam.
+"Yes. The confirmation email is sent automatically, but if you haven’t received it yet, check your Gmail Promotions tab as well as your Spam folder. Also, if you unsubscribed from our newsletter, you won’t get course updates. To make sure you don’t miss anything, you can join the #course-ml-zoomcamp channel on Slack and our Telegram announcements channel.","The process is automated now, so you should receive the email eventually. If you haven’t, check your promotions tab in Gmail as well as spam.
 If you unsubscribed from our newsletter, you won't get course related updates too.
 But don't worry, it’s not a problem. To make sure you don’t miss anything, join the #course-ml-zoomcamp channel in Slack and our telegram channel with announcements. This is enough to follow the course.",6ba259b1,Is it possible my confirmation email went to my spam folder?,machine-learning-zoomcamp
-"Yes. If you unsubscribe from the newsletter, you won’t receive course-related updates either. To stay informed, join the #course-ml-zoomcamp channel on Slack and the Telegram channel with announcements.","The process is automated now, so you should receive the email eventually. If you haven’t, check your promotions tab in Gmail as well as spam.
+"Yes. If you unsubscribed from our newsletter, you won’t get course-related updates anymore. To stay updated, you can also join the Slack channel (#course-ml-zoomcamp) and the Telegram channel with announcements.","The process is automated now, so you should receive the email eventually. If you haven’t, check your promotions tab in Gmail as well as spam.
 If you unsubscribed from our newsletter, you won't get course related updates too.
 But don't worry, it’s not a problem. To make sure you don’t miss anything, join the #course-ml-zoomcamp channel in Slack and our telegram channel with announcements. This is enough to follow the course.",6ba259b1,Can unsubscribing from the newsletter affect receiving course updates?,machine-learning-zoomcamp
-"- Check your Gmail Promotions tab and Spam folder — the automated confirmation email can land there.
-- If you’ve unsubscribed from our newsletter, you won’t receive course updates.
-- To ensure you don’t miss anything, join the Slack channel #course-ml-zoomcamp and the Telegram channel with announcements. These channels provide course updates.","The process is automated now, so you should receive the email eventually. If you haven’t, check your promotions tab in Gmail as well as spam.
+"Join the Slack channel #course-ml-zoomcamp and the Telegram channel with announcements to get course updates. If you’re not seeing the confirmation email, also check your Gmail Promotions tab and Spam folders, and note that unsubscribing from the newsletter will stop course updates.","The process is automated now, so you should receive the email eventually. If you haven’t, check your promotions tab in Gmail as well as spam.
 If you unsubscribed from our newsletter, you won't get course related updates too.
 But don't worry, it’s not a problem. To make sure you don’t miss anything, join the #course-ml-zoomcamp channel in Slack and our telegram channel with announcements. This is enough to follow the course.",6ba259b1,Where can I get course updates if I don’t receive the confirmation email?,machine-learning-zoomcamp
-"- Emails are automated, so you should receive the confirmation eventually. If you haven’t, check your Gmail Promotions tab and your spam folder.
+"- The email updates are automated and should arrive eventually. If you don’t see them, check your Gmail Promotions tab and Spam.
 - If you unsubscribed from our newsletter, you won’t receive course updates via email.
-- To stay informed regardless of email issues, join the Slack channel #course-ml-zoomcamp and the Telegram channel with announcements. This is enough to follow the course.","The process is automated now, so you should receive the email eventually. If you haven’t, check your promotions tab in Gmail as well as spam.
+- To be sure you don’t miss anything, join the Slack channel #course-ml-zoomcamp and the Telegram channel with announcements. This is enough to follow the course.","The process is automated now, so you should receive the email eventually. If you haven’t, check your promotions tab in Gmail as well as spam.
 If you unsubscribed from our newsletter, you won't get course related updates too.
 But don't worry, it’s not a problem. To make sure you don’t miss anything, join the #course-ml-zoomcamp channel in Slack and our telegram channel with announcements. This is enough to follow the course.",6ba259b1,How can I stay informed about the course if I'm having email issues?,machine-learning-zoomcamp
-"Approximately 4 months, though it may take longer if you choose to do extra activities (like an extra project or an article).","Approximately 4 months, but may take more if you want to do some extra activities (an extra project, an article, etc)",67e2fd13,What is the duration of the course?,machine-learning-zoomcamp
-"Approximately 4 months, though it may take longer if you choose to do extra activities (an extra project, an article, etc.).","Approximately 4 months, but may take more if you want to do some extra activities (an extra project, an article, etc)",67e2fd13,How many months does the course take?,machine-learning-zoomcamp
+"Approximately 4 months, but it may take longer if you choose to do extra activities (an extra project, an article, etc.).","Approximately 4 months, but may take more if you want to do some extra activities (an extra project, an article, etc)",67e2fd13,What is the duration of the course?,machine-learning-zoomcamp
+"Approximately 4 months, but it may take longer if you choose to do extra activities (like an extra project or an article).","Approximately 4 months, but may take more if you want to do some extra activities (an extra project, an article, etc)",67e2fd13,How many months does the course take?,machine-learning-zoomcamp
 "Yes. The course is approximately 4 months, but it may take longer if you choose to do extra activities (an extra project, an article, etc).","Approximately 4 months, but may take more if you want to do some extra activities (an extra project, an article, etc)",67e2fd13,Can the course take more than 4 months?,machine-learning-zoomcamp
-"Yes. The course is approximately 4 months, but you may take more time if you want to do extra activities (an extra project, an article, etc). It’s also available in self-paced mode, so you can go through the materials at your own pace.","Approximately 4 months, but may take more if you want to do some extra activities (an extra project, an article, etc)",67e2fd13,Is it possible to extend the course duration?,machine-learning-zoomcamp
-"Extra activities that might extend the course time include doing an extra project or writing an article (and other similar activities). The course is about 4 months, but it may take longer if you choose these extras.","Approximately 4 months, but may take more if you want to do some extra activities (an extra project, an article, etc)",67e2fd13,What extra activities might extend the course time?,machine-learning-zoomcamp
-Approximately 10 hours per week.,Around ~10 hours per week. Timur Kamaliev did a detailed analysis of how much time students of the previous cohort needed to spend on different modules and projects. Full article,a6897e8c,How many hours per week should I allocate for this course?,machine-learning-zoomcamp
+"Yes. The course is approximately 4 months, but it may take longer if you choose to do extra activities (like an additional project or an article). You can also use the self-paced mode to go through the materials at any time, which lets you pace the course longer according to your own schedule.","Approximately 4 months, but may take more if you want to do some extra activities (an extra project, an article, etc)",67e2fd13,Is it possible to extend the course duration?,machine-learning-zoomcamp
+Extra activities such as an extra project or writing an article (and similar activities) may extend the course time beyond approximately 4 months.,"Approximately 4 months, but may take more if you want to do some extra activities (an extra project, an article, etc)",67e2fd13,What extra activities might extend the course time?,machine-learning-zoomcamp
+Around ~10 hours per week.,Around ~10 hours per week. Timur Kamaliev did a detailed analysis of how much time students of the previous cohort needed to spend on different modules and projects. Full article,a6897e8c,How many hours per week should I allocate for this course?,machine-learning-zoomcamp
 Timur Kamaliev.,Around ~10 hours per week. Timur Kamaliev did a detailed analysis of how much time students of the previous cohort needed to spend on different modules and projects. Full article,a6897e8c,Who analyzed the time needed for different modules?,machine-learning-zoomcamp
 Around 10 hours per week.,Around ~10 hours per week. Timur Kamaliev did a detailed analysis of how much time students of the previous cohort needed to spend on different modules and projects. Full article,a6897e8c,How much time did students of the previous cohort spend weekly?,machine-learning-zoomcamp
-Approximately 10 hours per week. This estimate comes from a detailed analysis of how much time students in the previous cohort spent on different modules and projects.,Around ~10 hours per week. Timur Kamaliev did a detailed analysis of how much time students of the previous cohort needed to spend on different modules and projects. Full article,a6897e8c,Can you give an estimated weekly time commitment for the course?,machine-learning-zoomcamp
-"In the ""How much time do I need for this course?"" section—the detailed analysis is in the ""Full article"" linked there by Timur Kamaliev. It covers how much time the previous cohort spent on different modules and projects.",Around ~10 hours per week. Timur Kamaliev did a detailed analysis of how much time students of the previous cohort needed to spend on different modules and projects. Full article,a6897e8c,Where can I find the detailed analysis of study time requirements?,machine-learning-zoomcamp
-"You can earn a certificate by meeting these criteria:
+Approximately 10 hours per week. This estimate comes from Timur Kamaliev’s detailed analysis of how much time students from the previous cohort spent on different modules and projects.,Around ~10 hours per week. Timur Kamaliev did a detailed analysis of how much time students of the previous cohort needed to spend on different modules and projects. Full article,a6897e8c,Can you give an estimated weekly time commitment for the course?,machine-learning-zoomcamp
+In the Full article linked in the “How much time do I need for this course?” section. It’s written by Timur Kamaliev and analyzes how much time the previous cohort spent on different modules and projects.,Around ~10 hours per week. Timur Kamaliev did a detailed analysis of how much time students of the previous cohort needed to spend on different modules and projects. Full article,a6897e8c,Where can I find the detailed analysis of study time requirements?,machine-learning-zoomcamp
+"- To earn a certificate, you must submit 2 out of the 3 course projects and review 3 peers’ projects by the deadline.
+- You can still be eligible if you join late, as long as you complete two projects.
+- If you miss the midterm project, you can still get the certificate provided you have submitted two projects and peer-reviewed at least three peers’ projects.","Yes, if you finish at least 2 out of 3 projects and review 3 peers’ Projects by the deadline, you will get a certificate. This is what it looks like: link. There’s also a version without a robot: link.",2eba08e3,How can I earn a certificate in this course?,machine-learning-zoomcamp
+"- Complete at least 2 of the 3 course projects.
+- Review at least 3 of your peers’ projects (three peer reviews) by the deadline.
 
-- Submit at least 2 of the 3 course projects.
-- For each project you submit, review at least 3 of your peers’ projects.
-- Complete these requirements by the course deadline.
+If you meet both conditions, you will receive the course certificate. You can join late and still be eligible as long as you achieve two projects completed and three peer reviews by the deadline.","Yes, if you finish at least 2 out of 3 projects and review 3 peers’ Projects by the deadline, you will get a certificate. This is what it looks like: link. There’s also a version without a robot: link.",2eba08e3,What are the requirements to receive a certificate?,machine-learning-zoomcamp
+"No. You don’t need to complete all three projects.
 
-Additional notes:
-- You can join late (e.g., end of November) and still be eligible if you complete two projects.
-- Missing the midterm project is not a disqualifier as long as you finish two projects with the required peer reviews.","Yes, if you finish at least 2 out of 3 projects and review 3 peers’ Projects by the deadline, you will get a certificate. This is what it looks like: link. There’s also a version without a robot: link.",2eba08e3,How can I earn a certificate in this course?,machine-learning-zoomcamp
-"- Submit at least 2 of the 3 course projects.
-- Review at least 3 of your peers’ projects (by the deadline).
-- These two requirements must be met by the deadline to receive the certificate.
+- You only need to finish 2 out of 3 projects and review 3 peers’ projects by the deadline to receive the certificate.
+- It’s also possible to miss the midterm project and still be eligible if you meet the two-project plus peer-review requirement.","Yes, if you finish at least 2 out of 3 projects and review 3 peers’ Projects by the deadline, you will get a certificate. This is what it looks like: link. There’s also a version without a robot: link.",2eba08e3,Do I need to complete all projects to get a certificate?,machine-learning-zoomcamp
+"You must complete 2 out of 3 course projects and review 3 peers’ projects by the course deadline. For the exact date, see the deadlines on the 2023 cohort page.","Yes, if you finish at least 2 out of 3 projects and review 3 peers’ Projects by the deadline, you will get a certificate. This is what it looks like: link. There’s also a version without a robot: link.",2eba08e3,What is the deadline to qualify for the certificate?,machine-learning-zoomcamp
+"Yes. There is a certificate version without a robot image. To be eligible for any certificate, you must finish at least 2 of 3 projects and review 3 peers’ projects by the deadline; the no-robot version is available via the link in the FAQ.","Yes, if you finish at least 2 out of 3 projects and review 3 peers’ Projects by the deadline, you will get a certificate. This is what it looks like: link. There’s also a version without a robot: link.",2eba08e3,Is there an option for a certificate without a robot image?,machine-learning-zoomcamp
+"Yes. It’s possible to receive the certificate even if you miss the midterm project, as long as you:
 
-Notes:
-- You can join the course late and still be eligible if you complete two projects and 3 peer reviews by the deadline.
-- Missing the midterm project is not necessarily disqualifying; you can still obtain the certificate if you meet the above requirements.","Yes, if you finish at least 2 out of 3 projects and review 3 peers’ Projects by the deadline, you will get a certificate. This is what it looks like: link. There’s also a version without a robot: link.",2eba08e3,What are the requirements to receive a certificate?,machine-learning-zoomcamp
-No. You only need to complete 2 out of the 3 course projects and review at least 3 peers’ projects by the deadline to receive the certificate.,"Yes, if you finish at least 2 out of 3 projects and review 3 peers’ Projects by the deadline, you will get a certificate. This is what it looks like: link. There’s also a version without a robot: link.",2eba08e3,Do I need to complete all projects to get a certificate?,machine-learning-zoomcamp
-"- To qualify for the certificate, you must submit at least 2 of the 3 course projects and review 3 peers’ projects by the course deadline.
-- The exact deadline date isn’t provided here; you can find the specific dates on the 2023 cohort deadlines page.
-- You can join the course late (e.g., end of November) and still be eligible as long as you complete two projects by the deadline.","Yes, if you finish at least 2 out of 3 projects and review 3 peers’ Projects by the deadline, you will get a certificate. This is what it looks like: link. There’s also a version without a robot: link.",2eba08e3,What is the deadline to qualify for the certificate?,machine-learning-zoomcamp
-Yes. There is a version of the certificate without the robot image. (There’s also a version without a robot available; you’ll still need to meet the standard criteria to earn the certificate: finish 2 out of 3 projects and review 3 peers’ projects by the deadline.),"Yes, if you finish at least 2 out of 3 projects and review 3 peers’ Projects by the deadline, you will get a certificate. This is what it looks like: link. There’s also a version without a robot: link.",2eba08e3,Is there an option for a certificate without a robot image?,machine-learning-zoomcamp
-"Yes. It’s possible to receive the certificate even if you don’t complete the midterm project. If you submit two projects (out of the three) and peer-review at least 3 peers’ projects for each submission, you will get the course certificate. In other words, only two projects are needed to obtain the certificate.","Yes, it's possible. See the previous answer.",1d644223,Will I receive a certificate if I don't complete the midterm project?,machine-learning-zoomcamp
-"Yes. You can still graduate (get a certificate) even if you miss the midterm project, as long as you:
+- finish at least two out of three projects, and
+- review at least three peers’ projects for each submission by the deadline.
 
-- finish at least 2 out of the 3 projects, and
-- review 3 peers’ projects by the deadline.
+According to the course coordinator, only two projects are needed to get the certificate (provided you also peer-review the required number of projects).","Yes, it's possible. See the previous answer.",1d644223,Will I receive a certificate if I don't complete the midterm project?,machine-learning-zoomcamp
+"Yes. You can still graduate (receive a certificate) without submitting the midterm project as long as you:
 
-Note: Midterm and capstone are solo projects, so you would need to complete two of the three solo projects to meet the requirement.","Yes, it's possible. See the previous answer.",1d644223,Can I still graduate without submitting the midterm project?,machine-learning-zoomcamp
-Yes. You can still be eligible even if you missed the midterm project. You need to submit two projects (out of the three) and peer-review at least 3 peers’ projects for each submission by the deadline to receive the certificate. Only two projects are needed to get the course certificate.,"Yes, it's possible. See the previous answer.",1d644223,Am I eligible for certification if I missed the midterm project?,machine-learning-zoomcamp
-No. You don’t have to complete the midterm. You can earn the certificate by completing 2 out of 3 projects and peer-reviewing 3 peers’ projects by the deadline. The course coordinator stated that only two projects are needed to get the certificate.,"Yes, it's possible. See the previous answer.",1d644223,Is it mandatory to complete the midterm project for the certificate?,machine-learning-zoomcamp
-"No. Missing the midterm project does not automatically prevent certification. You can still be eligible if you complete at least two projects and review three peers’ projects by the deadline. Specifically, you will get the certificate if you have submitted two projects (and peer-reviewed at least three course-mates’ projects for each submission). The course coordinator notes that only two projects are needed to get the certificate, and this also applies if you joined late—as long as you complete two projects and three peer reviews by the deadline.","Yes, it's possible. See the previous answer.",1d644223,Does missing the midterm project affect my certification eligibility?,machine-learning-zoomcamp
-"- Running a Jupyter notebook
-- Importing libraries (and what libraries are)
-- Declaring variables (and what variables are)
-- Some important data-analysis operations
+- Submit 2 out of the 3 course projects (i.e., complete two other projects), and
+- Review 3 peers’ projects by the deadline.
 
-If you’re unsure, consult these resources:
-- Introduction to Python – Machine Learning Bookcamp article
-- Learn Python Basics for Data Analysis - OpenClassrooms (free English course)
-
-If you know everything in the article, you know enough; otherwise read it and consider the Introduction to Python course as well.","Check this article. If you know everything in this article, you know enough. If you don’t, read the article and join the coursIntroduction to Pythone too :)
-Introduction to Python – Machine Learning Bookcamp
-You can follow this English course from the OpenClassrooms e-learning platform, which is free and covers the python basics for data analysis: Learn Python Basics for Data Analysis - OpenClassrooms . It is important to know some basics such as: how to run a Jupyter notebook, how to import libraries (and what libraries are), how to declare a variable (and what variables are) and some important operations regarding data analysis.
-(Mélanie Fouesnard)",14890cd2,What Python basics are required for this course?,machine-learning-zoomcamp
-"You can learn the necessary Python knowledge from these resources in the FAQ context:
-
-- Start with the article linked in the FAQ. If you know everything in that article, you’re set; if not, read it and join Introduction to Python (Machine Learning Bookcamp).
-
-- The Introduction to Python – Machine Learning Bookcamp course is available as a resource.
-
-- You can also take the free OpenClassrooms course Learn Python Basics for Data Analysis. It covers Python basics for data analysis, including:
-  - how to run a Jupyter notebook
-  - how to import libraries (and what libraries are)
-  - how to declare a variable (and what variables are)
-  - some important data-analysis operations","Check this article. If you know everything in this article, you know enough. If you don’t, read the article and join the coursIntroduction to Pythone too :)
-Introduction to Python – Machine Learning Bookcamp
-You can follow this English course from the OpenClassrooms e-learning platform, which is free and covers the python basics for data analysis: Learn Python Basics for Data Analysis - OpenClassrooms . It is important to know some basics such as: how to run a Jupyter notebook, how to import libraries (and what libraries are), how to declare a variable (and what variables are) and some important operations regarding data analysis.
-(Mélanie Fouesnard)",14890cd2,Where can I learn the necessary Python knowledge for this course?,machine-learning-zoomcamp
-"- There can be issues when launching a Jupyter notebook in a fresh environment (for example, an ImportError related to jinja2). A common fix shown in the course is to switch to the main environment and run: pip install nbconvert --upgrade.
-
-- For midterm projects, you also need to know how to run Python code outside the notebook: a train.py file is required so your peers can review and cross-check that the training works on their systems. It must be a Python file and should be included in the environment (conda or with pipenv). The course notes that running a Python script for training is usually how training jobs look in real life, which is why this matters.","Check this article. If you know everything in this article, you know enough. If you don’t, read the article and join the coursIntroduction to Pythone too :)
-Introduction to Python – Machine Learning Bookcamp
-You can follow this English course from the OpenClassrooms e-learning platform, which is free and covers the python basics for data analysis: Learn Python Basics for Data Analysis - OpenClassrooms . It is important to know some basics such as: how to run a Jupyter notebook, how to import libraries (and what libraries are), how to declare a variable (and what variables are) and some important operations regarding data analysis.
-(Mélanie Fouesnard)",14890cd2,Why is it important to know how to run a Jupyter notebook for this course?,machine-learning-zoomcamp
-"- Basic operations you should know:
+Midterms and capstones are solo projects, and you can still be eligible even if you join late as long as you meet the two-project and three-peer-review requirements.","Yes, it's possible. See the previous answer.",1d644223,Can I still graduate without submitting the midterm project?,machine-learning-zoomcamp
+"Yes. You can still be eligible even if you missed the midterm project. If you submit two projects and peer-review at least 3 peers’ projects for each submission by the deadline, you will receive the course certificate (only two projects are needed).","Yes, it's possible. See the previous answer.",1d644223,Am I eligible for certification if I missed the midterm project?,machine-learning-zoomcamp
+No. You don’t have to complete the midterm project. You can receive the certificate by submitting two out of the three course projects and peer-reviewing at least three peers’ projects by the deadline.,"Yes, it's possible. See the previous answer.",1d644223,Is it mandatory to complete the midterm project for the certificate?,machine-learning-zoomcamp
+Yes. Missing the midterm project does not automatically disqualify you. You can still be eligible if you submit two out of the three course projects and review at least three peers’ projects for each submission by the deadline. Two projects are enough to receive the certificate.,"Yes, it's possible. See the previous answer.",1d644223,Does missing the midterm project affect my certification eligibility?,machine-learning-zoomcamp
+"- You should know the following Python basics:
   - How to run a Jupyter notebook
   - How to import libraries (and what libraries are)
   - How to declare a variable (and what variables are)
-  - Some important operations regarding data analysis
+  - Some important data-analysis operations
 
-- Helpful resources:
-  - Learn Python Basics for Data Analysis - OpenClassrooms (free)
-  - Introduction to Python – Machine Learning Bookcamp article: if you know everything in this article, you’re ready; otherwise read it and join the Introduction to Python course
-  - The article about Python basics referenced in the course description","Check this article. If you know everything in this article, you know enough. If you don’t, read the article and join the coursIntroduction to Pythone too :)
+- For these basics, you can follow the OpenClassrooms course “Learn Python Basics for Data Analysis” (free). If you know everything in the linked article, you’re set; otherwise read the article and consider the Introduction to Python course as well.","Check this article. If you know everything in this article, you know enough. If you don’t, read the article and join the coursIntroduction to Pythone too :)
+Introduction to Python – Machine Learning Bookcamp
+You can follow this English course from the OpenClassrooms e-learning platform, which is free and covers the python basics for data analysis: Learn Python Basics for Data Analysis - OpenClassrooms . It is important to know some basics such as: how to run a Jupyter notebook, how to import libraries (and what libraries are), how to declare a variable (and what variables are) and some important operations regarding data analysis.
+(Mélanie Fouesnard)",14890cd2,What Python basics are required for this course?,machine-learning-zoomcamp
+"- Read the article mentioned in the FAQ under “How much Python should I know?” If you know everything in that article, you’re set; otherwise read it and join the Introduction to Python – Machine Learning Bookcamp.
+
+- You can also take an English-language course on OpenClassrooms: Learn Python Basics for Data Analysis. It’s free and covers Python basics for data analysis, including how to run a Jupyter notebook, how to import libraries, how to declare variables, and key data-analysis operations.","Check this article. If you know everything in this article, you know enough. If you don’t, read the article and join the coursIntroduction to Pythone too :)
+Introduction to Python – Machine Learning Bookcamp
+You can follow this English course from the OpenClassrooms e-learning platform, which is free and covers the python basics for data analysis: Learn Python Basics for Data Analysis - OpenClassrooms . It is important to know some basics such as: how to run a Jupyter notebook, how to import libraries (and what libraries are), how to declare a variable (and what variables are) and some important operations regarding data analysis.
+(Mélanie Fouesnard)",14890cd2,Where can I learn the necessary Python knowledge for this course?,machine-learning-zoomcamp
+"- Your midterm project will be reviewed by peers who cross-check that the training process works on someone else’s system, using a Python file (train.py) that should be included in the environment. Knowing how to run a notebook helps you develop and verify that code before sharing it.
+- In real life, training is typically done by running a Python script rather than a notebook, so being able to run and test notebooks is part of preparing a runnable, shareable workflow.
+- There can be environment issues when launching notebooks; for example, an ImportError related to jinja2 can occur, and a fix is to upgrade nbconvert. Being able to run notebooks lets you troubleshoot these kinds of problems.
+- Practical tips from the material also note simple workarounds in notebook commands (e.g., on Windows, use !dir instead of !ls) to ensure you can run and inspect outputs in the notebook.","Check this article. If you know everything in this article, you know enough. If you don’t, read the article and join the coursIntroduction to Pythone too :)
+Introduction to Python – Machine Learning Bookcamp
+You can follow this English course from the OpenClassrooms e-learning platform, which is free and covers the python basics for data analysis: Learn Python Basics for Data Analysis - OpenClassrooms . It is important to know some basics such as: how to run a Jupyter notebook, how to import libraries (and what libraries are), how to declare a variable (and what variables are) and some important operations regarding data analysis.
+(Mélanie Fouesnard)",14890cd2,Why is it important to know how to run a Jupyter notebook for this course?,machine-learning-zoomcamp
+"- You should know the basics such as:
+  - how to run a Jupyter notebook
+  - how to import libraries (and what libraries are)
+  - how to declare a variable (and what variables are)
+  - some important operations regarding data analysis
+
+- For learning these basics, you can follow the free OpenClassrooms course Learn Python Basics for Data Analysis (Python basics for data analysis).
+
+- Also, check the article referenced in the FAQ: if you know everything in that article, you know enough; if not, read the article and consider joining the Introduction to Python course as well.","Check this article. If you know everything in this article, you know enough. If you don’t, read the article and join the coursIntroduction to Pythone too :)
 Introduction to Python – Machine Learning Bookcamp
 You can follow this English course from the OpenClassrooms e-learning platform, which is free and covers the python basics for data analysis: Learn Python Basics for Data Analysis - OpenClassrooms . It is important to know some basics such as: how to run a Jupyter notebook, how to import libraries (and what libraries are), how to declare a variable (and what variables are) and some important operations regarding data analysis.
 (Mélanie Fouesnard)",14890cd2,What basic operations regarding data analysis should I know for this course?,machine-learning-zoomcamp
-"- Check the article linked in “How much Python should I know?”; it covers Python basics and includes information on declaring variables.
-- If you don’t know all of it yet, read that article and also join the Introduction to Python course.
-- You can also follow the free OpenClassrooms course “Learn Python Basics for Data Analysis,” which covers Python basics for data analysis, including how to run a Jupyter notebook, how to import libraries, and how to declare a variable (and what variables are).","Check this article. If you know everything in this article, you know enough. If you don’t, read the article and join the coursIntroduction to Pythone too :)
+"- Start with the OpenClassrooms Learn Python Basics for Data Analysis course (free, in English). It covers Python basics, including how to declare a variable and what variables are, along with other essentials for data analysis.
+- If you want more, read the Introduction to Python article (from the Machine Learning Bookcamp) and consider joining the Introduction to Python course as well.","Check this article. If you know everything in this article, you know enough. If you don’t, read the article and join the coursIntroduction to Pythone too :)
 Introduction to Python – Machine Learning Bookcamp
 You can follow this English course from the OpenClassrooms e-learning platform, which is free and covers the python basics for data analysis: Learn Python Basics for Data Analysis - OpenClassrooms . It is important to know some basics such as: how to run a Jupyter notebook, how to import libraries (and what libraries are), how to declare a variable (and what variables are) and some important operations regarding data analysis.
 (Mélanie Fouesnard)",14890cd2,How can I learn to declare variables in Python for this course?,machine-learning-zoomcamp
-"- There aren’t special hardware requirements beyond a working laptop with internet for the Machine Learning portion.
-- The Deep Learning portion is more resource-intensive, so you can use cloud services (the course uses Saturn Cloud, but any cloud option is fine).","For the Machine Learning part, all you need is a working laptop with an internet connection. The Deep Learning part is more resource intensive, but for that you can use a cloud (we use Saturn cloud but can be anything else).
+"- ML part: you only need a working laptop with an internet connection.
+- Deep Learning part: more resource-intensive; you can use cloud services (e.g., Saturn Cloud or any other cloud).
+- Free / cloud options: AWS and GCP offer free micro-instances for a long time; Saturn provides free GPU hours (promo available via ML Zoomcamp). For even easier setup, small AWS instances can be run for free, though larger ones incur costs.","For the Machine Learning part, all you need is a working laptop with an internet connection. The Deep Learning part is more resource intensive, but for that you can use a cloud (we use Saturn cloud but can be anything else).
 (Rileen Sinha; based on response by Alexey on Slack)",a4fad482,"Are there any specific hardware requirements for the course, or is everything mainly based on cloud services?",machine-learning-zoomcamp
-"Yes. For the Machine Learning portion, all you need is a working laptop with an internet connection. The Deep Learning portion is more resource-intensive, and you can use a cloud environment (e.g., Saturn Cloud or another provider) if needed.","For the Machine Learning part, all you need is a working laptop with an internet connection. The Deep Learning part is more resource intensive, but for that you can use a cloud (we use Saturn cloud but can be anything else).
+"Yes. For the Machine Learning part, you only need a working laptop with an internet connection. The Deep Learning portion is more resource-intensive and can be done on the cloud (e.g., Saturn Cloud or another service).","For the Machine Learning part, all you need is a working laptop with an internet connection. The Deep Learning part is more resource intensive, but for that you can use a cloud (we use Saturn cloud but can be anything else).
 (Rileen Sinha; based on response by Alexey on Slack)",a4fad482,Do I just need a laptop and internet for the Machine Learning section?,machine-learning-zoomcamp
-"Yes. The Deep Learning part is more resource-intensive than the Machine Learning part. For the Machine Learning portion, a working laptop with internet is enough. For the Deep Learning portion, you can use a cloud service (e.g., Saturn Cloud or another provider).","For the Machine Learning part, all you need is a working laptop with an internet connection. The Deep Learning part is more resource intensive, but for that you can use a cloud (we use Saturn cloud but can be anything else).
+"Yes. The Deep Learning part is more resource-intensive than the Machine Learning part. For that portion you can use a cloud service (e.g., Saturn Cloud). The Machine Learning part only requires a working laptop with internet access.","For the Machine Learning part, all you need is a working laptop with an internet connection. The Deep Learning part is more resource intensive, but for that you can use a cloud (we use Saturn cloud but can be anything else).
 (Rileen Sinha; based on response by Alexey on Slack)",a4fad482,Is the Deep Learning part of the course more resource-intensive than the Machine Learning part?,machine-learning-zoomcamp
-"Yes. The Deep Learning part is resource-intensive, and you can use a cloud for it—Saturn Cloud is the one we use, though other cloud options could also be used.","For the Machine Learning part, all you need is a working laptop with an internet connection. The Deep Learning part is more resource intensive, but for that you can use a cloud (we use Saturn cloud but can be anything else).
+"Yes. The Deep Learning part is more resource-intensive, and we use Saturn Cloud for it (though other cloud options can be used as well).","For the Machine Learning part, all you need is a working laptop with an internet connection. The Deep Learning part is more resource intensive, but for that you can use a cloud (we use Saturn cloud but can be anything else).
 (Rileen Sinha; based on response by Alexey on Slack)",a4fad482,Can Saturn Cloud be used for the Deep Learning part of the course?,machine-learning-zoomcamp
-"Yes. The Deep Learning part can be done on a cloud other than Saturn Cloud; Saturn Cloud is just an example, and any other cloud is acceptable. For free options, AWS and GCP offer free microinstances for a long time, and Saturn provides free GPU instances.","For the Machine Learning part, all you need is a working laptop with an internet connection. The Deep Learning part is more resource intensive, but for that you can use a cloud (we use Saturn cloud but can be anything else).
+"Yes. The Deep Learning portion can be done on a cloud service other than Saturn Cloud; Saturn is just an example and any cloud can be used.
+
+For free options, AWS and GCP offer free micro-instances for a very long time, and Saturn provides free GPU instances.","For the Machine Learning part, all you need is a working laptop with an internet connection. The Deep Learning part is more resource intensive, but for that you can use a cloud (we use Saturn cloud but can be anything else).
 (Rileen Sinha; based on response by Alexey on Slack)",a4fad482,Is it possible to use a cloud service other than Saturn Cloud for the Deep Learning section?,machine-learning-zoomcamp
-You can find instructions in this article: https://knowmledge.com/2023/12/07/ml-zoomcamp-2023-project/,Here is an article that worked for me: https://knowmledge.com/2023/12/07/ml-zoomcamp-2023-project/,34b7fd35,Where can I find instructions to install TensorFlow GPU on Ubuntu?,machine-learning-zoomcamp
-"Yes. The FAQ lists a few guides you can use to set up TensorFlow with GPU on Ubuntu:
+Check out this article: https://knowmledge.com/2023/12/07/ml-zoomcamp-2023-project/ It worked for someone in the course for setting up TensorFlow with GPU on Ubuntu.,Here is an article that worked for me: https://knowmledge.com/2023/12/07/ml-zoomcamp-2023-project/,34b7fd35,Where can I find instructions to install TensorFlow GPU on Ubuntu?,machine-learning-zoomcamp
+Yes. Here is an article that worked for me: https://knowmledge.com/2023/12/07/ml-zoomcamp-2023-project/,Here is an article that worked for me: https://knowmledge.com/2023/12/07/ml-zoomcamp-2023-project/,34b7fd35,Is there a guide to set up TensorFlow with GPU on Ubuntu?,machine-learning-zoomcamp
+"- You need CUDA and cuDNN to run TensorFlow with GPU on Ubuntu. Install Nvidia drivers first, then CUDA and cuDNN, and finally TensorFlow with GPU support.
 
-- Article that worked for someone: https://knowmledge.com/2023/12/07/ml-zoomcamp-2023-project/
+What to do (based on the course materials):
+- Install Nvidia drivers: https://www.nvidia.com/download/index.aspx
+- Linux/TensorFlow installation path: Install TensorFlow with pip (Linux)
+  - https://www.tensorflow.org/install/pip#linux_1
+  - Make sure to follow the guidance to install CUDA by environment (as indicated in the guide)
+- Install CUDA toolkit: https://developer.nvidia.com/cuda-toolkit-archive (choose an 11.x.x series as referenced)
+- Install cuDNN: https://developer.nvidia.com/rdp/cudnn-download
+- Optional: follow the course-referenced simplified guide for Ubuntu setup: https://knowmledge.com/2023/12/07/ml-zoomcamp-2023-project/
+- After completing these steps, you should be able to train/infer with GPU in TensorFlow.
 
-- Section 8: How to install CUDA & cuDNN on Ubuntu 22.04 (mentions you need to set up CUDA and cuDNN; refers to a simplified guide by Osman Ali)
+Note (optional troubleshooting): If you encounter GPU memory allocation issues, you can try enabling memory growth in TensorFlow as described in the course notes:
+- Configuring memory growth: set config.gpu_options.allow_growth = True in a TensorFlow session.",Here is an article that worked for me: https://knowmledge.com/2023/12/07/ml-zoomcamp-2023-project/,34b7fd35,How do I configure GPU support for TensorFlow on my Ubuntu machine?,machine-learning-zoomcamp
+"Yes. A resource that’s listed in the FAQ for installing TensorFlow with GPU on Ubuntu is:
 
-- Miscellaneous: CUDA toolkit and cuDNN Install for Tensorflow (Linux/WSL) with steps and links, including NVIDIA drivers and CUDA/cuDNN installation:
-  - NVIDIA drivers: https://www.nvidia.com/download/index.aspx
-  - CUDA toolkit 11.x.x: https://developer.nvidia.com/cuda-toolkit-archive
-  - cuDNN download: https://developer.nvidia.com/rdp/cudnn-download
+- https://knowmledge.com/2023/12/07/ml-zoomcamp-2023-project/
 
-These sources cover the CUDA/cuDNN setup needed to run TensorFlow with GPU on Ubuntu.",Here is an article that worked for me: https://knowmledge.com/2023/12/07/ml-zoomcamp-2023-project/,34b7fd35,Is there a guide to set up TensorFlow with GPU on Ubuntu?,machine-learning-zoomcamp
-"Here are the GPU setup steps for TensorFlow on Ubuntu, based on the course materials:
+Additionally, the FAQ references a simplified guide for installing CUDA and cuDNN on Ubuntu 22.04 (which you’ll need to run TensorFlow with GPU).",Here is an article that worked for me: https://knowmledge.com/2023/12/07/ml-zoomcamp-2023-project/,34b7fd35,Can you direct me to a resource for installing TensorFlow with GPU on Ubuntu?,machine-learning-zoomcamp
+"Based on the CONTEXT, the procedure to set up TensorFlow with GPU on Ubuntu involves installing NVIDIA drivers and the CUDA/cuDNN stack, then installing TensorFlow for Linux. A linked article is also provided that allegedly worked for someone.
 
-- You need CUDA and cuDNN to enable GPU support.
-  - See the note that to run TensorFlow with GPU on your local machine you’ll need to set up CUDA and cuDNN (and a simplified guide exists for Ubuntu 22.04).
+Steps (as described in the CONTEXT):
+- Install NVIDIA drivers: https://www.nvidia.com/download/index.aspx
+- On Linux/Ubuntu, install TensorFlow using the Linux path (pip): https://www.tensorflow.org/install/pip#linux_1
+- Make sure to follow step 4 to install CUDA by environment (as referenced in the Linux install guide), including exporting XLA-related environment settings, e.g. an environment variable like XLA_FLAGS to point to the CUDA data directory in your environment.
+- Install CUDA Toolkit version 11.x.x: https://developer.nvidia.com/cuda-toolkit-archive
+- Install cuDNN: https://developer.nvidia.com/rdp/cudnn-download
+- After these installations, you should be able to train/infer with GPU in TensorFlow.
 
-- Install Nvidia drivers for Ubuntu.
-  - Driver source: https://www.nvidia.com/download/index.aspx
-
-- Install CUDA and cuDNN (Linux/Ubuntu path).
-  - Install CUDA toolkit (CUDA toolkit 11.x is referenced).
-  - Install cuDNN (as linked in the resources).
-  - The Linux path mentions following steps to install CUDA via environment configuration (follow the guidance in the linked resources).
-  - One recommended approach is to install TensorFlow using Linux-friendly methods (see below) and then ensure CUDA is available to the environment.
-
-- Install TensorFlow with GPU support (two options):
-  - Option 1: Install via pip the TensorFlow way for Linux
-    - Link: https://www.tensorflow.org/install/pip#linux_1
-  - Option 2: Use Anaconda and install the package tensorflow-gpu
-    - Install via Anaconda prompt or environment, then install TensorFlow through the Anaconda package
-  - After installing, you should be able to train/infer with GPU in TensorFlow.
-
-- Optional environment setup notes:
-  - There is a command referenced to set up CUDA-related environment variables (for example, a snippet involving XLA_FLAGS and conda activation scripts). Follow the documented steps to ensure your environment variables point to the CUDA/CuDNN locations in your conda environment.
-
-- If you encounter memory allocation issues on the GPU:
-  - You can enable memory growth at the start of your notebook/script:
-    - config = tf.compat.v1.ConfigProto()
-    - config.gpu_options.allow_growth = True
-    - session = tf.compat.v1.Session(config=config)
-
-- A practical reference that has worked for others:
-  - Article: https://knowmledge.com/2023/12/07/ml-zoomcamp-2023-project/
-
-In short: install Nvidia drivers, install CUDA toolkit and cuDNN, install TensorFlow with GPU support (via pip or Anaconda), configure CUDA environment variables as advised, and (if needed) enable GPU memory growth to avoid allocation errors.",Here is an article that worked for me: https://knowmledge.com/2023/12/07/ml-zoomcamp-2023-project/,34b7fd35,How do I configure GPU support for TensorFlow on my Ubuntu machine?,machine-learning-zoomcamp
-Yes. Here is a resource that worked for me: https://knowmledge.com/2023/12/07/ml-zoomcamp-2023-project/,Here is an article that worked for me: https://knowmledge.com/2023/12/07/ml-zoomcamp-2023-project/,34b7fd35,Can you direct me to a resource for installing TensorFlow with GPU on Ubuntu?,machine-learning-zoomcamp
-"Here are the available paths in the FAQ for setting up TensorFlow with GPU on Ubuntu:
-
-- A recommended article that many have used: https://knowmledge.com/2023/12/07/ml-zoomcamp-2023-project/
-
-- For Ubuntu 22.04 (CUDA & cuDNN): TensorFlow with GPU requires CUDA and cuDNN. A simplified guide is available from the FAQ:
-  - Install NVIDIA drivers: https://www.nvidia.com/download/index.aspx
-  - Install the CUDA toolkit (11.x.x): https://developer.nvidia.com/cuda-toolkit-archive
-  - Install cuDNN: https://developer.nvidia.com/rdp/cudnn-download
-  - Then you should be able to train/infer with GPU in TensorFlow. For Linux/Ubuntu, follow the Linux pip path to install TensorFlow with GPU support: https://www.tensorflow.org/install/pip#linux_1
-  - When following the Linux path, make sure to follow step 4 to install CUDA by environment (as referenced in the FAQ).
-
-In short: install NVIDIA drivers, CUDA toolkit (11.x), and cuDNN, then install TensorFlow for Linux (pip) and verify GPU usage. The FAQ also points to the specific article above as a worked example.",Here is an article that worked for me: https://knowmledge.com/2023/12/07/ml-zoomcamp-2023-project/,34b7fd35,What is the procedure to set up TensorFlow GPU on Ubuntu?,machine-learning-zoomcamp
+Additionally, there is a specific article that reportedly worked for someone: https://knowmledge.com/2023/12/07/ml-zoomcamp-2023-project/",Here is an article that worked for me: https://knowmledge.com/2023/12/07/ml-zoomcamp-2023-project/,34b7fd35,What is the procedure to set up TensorFlow GPU on Ubuntu?,machine-learning-zoomcamp
 "Here’s how to join a channel in Slack:
 
 - Click “All channels” at the top of your left sidebar. If you don’t see this option, click “More” to find it.
 - Browse the list of public channels in your workspace, or use the search bar to search by channel name or description.
 - Select a channel from the list to view it.
-- Click Join Channel.
+- Click “Join Channel.”
 
-For reference, you can also view the Slack help article: https://slack.com/help/articles/205239967-Join-a-channel","Here’s how you join a in Slack: https://slack.com/help/articles/205239967-Join-a-channel
+For reference, you can also view the official guide here: https://slack.com/help/articles/205239967-Join-a-channel","Here’s how you join a in Slack: https://slack.com/help/articles/205239967-Join-a-channel
 Click “All channels” at the top of your left sidebar. If you don't see this option, click “More” to find it.
 Browse the list of public channels in your workspace, or use the search bar to search by channel name or description.
 Select a channel from the list to view it.
@@ -309,25 +280,28 @@ Do we need to provide the GitHub link to only our code corresponding to the home
 Yes. You are required to provide the URL to your repo in order to receive a grade",4930aa19,How can I join a channel in Slack?,machine-learning-zoomcamp
 "Here are the steps to find and join course channels in Slack:
 
-- Click “All channels” at the top of your left sidebar. If you don’t see this option, click “More” to find it.
+- Open Slack and click “All channels” at the top of your left sidebar. If you don’t see it, click “More” to find it.
 - Browse the list of public channels in your workspace, or use the search bar to search by channel name or description.
-- Select a channel from the list to view it.
-- Click “Join Channel.”","Here’s how you join a in Slack: https://slack.com/help/articles/205239967-Join-a-channel
+- Click a channel from the list to view it.
+- Click “Join Channel” to join.
+
+Optional: To stay updated for this course, you can join the specific course channel, e.g., #course-ml-zoomcamp.
+
+If you’d like a quick reference, you can also view Slack’s guide on joining a channel here: https://slack.com/help/articles/205239967-Join-a-channel.","Here’s how you join a in Slack: https://slack.com/help/articles/205239967-Join-a-channel
 Click “All channels” at the top of your left sidebar. If you don't see this option, click “More” to find it.
 Browse the list of public channels in your workspace, or use the search bar to search by channel name or description.
 Select a channel from the list to view it.
 Click Join Channel.
 Do we need to provide the GitHub link to only our code corresponding to the homework questions?
 Yes. You are required to provide the URL to your repo in order to receive a grade",4930aa19,What steps should I follow to find course channels on Slack?,machine-learning-zoomcamp
-Yes. The GitHub repository must be public; otherwise the reviewer won’t be able to access the link to your repo.,"Here’s how you join a in Slack: https://slack.com/help/articles/205239967-Join-a-channel
+Yes. The repository must be public; graders will only be able to access the link if the repository is public.,"Here’s how you join a in Slack: https://slack.com/help/articles/205239967-Join-a-channel
 Click “All channels” at the top of your left sidebar. If you don't see this option, click “More” to find it.
 Browse the list of public channels in your workspace, or use the search bar to search by channel name or description.
 Select a channel from the list to view it.
 Click Join Channel.
 Do we need to provide the GitHub link to only our code corresponding to the homework questions?
 Yes. You are required to provide the URL to your repo in order to receive a grade",4930aa19,Is there a need to give the URL to our GitHub repo?,machine-learning-zoomcamp
-"- You must provide the URL to your GitHub repository for grading.
-- The repository must be public for the grader to access it.","Here’s how you join a in Slack: https://slack.com/help/articles/205239967-Join-a-channel
+You must provide the URL to your GitHub repository for the homework in order to receive a grade. The FAQ states this requirement but does not specify a exact submission location.,"Here’s how you join a in Slack: https://slack.com/help/articles/205239967-Join-a-channel
 Click “All channels” at the top of your left sidebar. If you don't see this option, click “More” to find it.
 Browse the list of public channels in your workspace, or use the search bar to search by channel name or description.
 Select a channel from the list to view it.
@@ -336,81 +310,89 @@ Do we need to provide the GitHub link to only our code corresponding to the home
 Yes. You are required to provide the URL to your repo in order to receive a grade",4930aa19,Where do I provide the GitHub URL for our homework?,machine-learning-zoomcamp
 "Here’s how to join a Slack channel:
 
-- Open Slack and click “All channels” at the top of your left sidebar. If you don’t see this option, click “More” to find it.
-- Browse the list of public channels in your workspace, or use the search bar to search by channel name or description.
-- Select a channel from the list to view it.
-- Click “Join Channel.”
+- Click “All channels” at the top of your left sidebar. If you don’t see this option, click “More.”
+- Browse the list of public channels or use the search bar to search by channel name or description.
+- Select a channel to view it, then click “Join Channel.”
 
-For reference, you can also view the step-by-step guide here: https://slack.com/help/articles/205239967-Join-a-channel","Here’s how you join a in Slack: https://slack.com/help/articles/205239967-Join-a-channel
+You can also read the official Slack guide here: https://slack.com/help/articles/205239967-Join-a-channel
+
+If you want course updates, you can join the #course-ml-zoomcamp channel in Slack.","Here’s how you join a in Slack: https://slack.com/help/articles/205239967-Join-a-channel
 Click “All channels” at the top of your left sidebar. If you don't see this option, click “More” to find it.
 Browse the list of public channels in your workspace, or use the search bar to search by channel name or description.
 Select a channel from the list to view it.
 Click Join Channel.
 Do we need to provide the GitHub link to only our code corresponding to the homework questions?
 Yes. You are required to provide the URL to your repo in order to receive a grade",4930aa19,Can you show me how to join a Slack channel?,machine-learning-zoomcamp
-"Yes. You can join late and participate in the course. You just won’t be able to submit some of the homeworks. 
-
-For a certificate, you need to submit 2 out of 3 course projects and review 3 peers’ projects by the deadline. For example, joining at the end of November and completing two projects can still make you eligible for a certificate.","Yes, you can. You won’t be able to submit some of the homeworks, but you can still take part in the course.
+"Yes. You can join the course after it has started and participate. You may not be able to submit some of the homeworks. To earn a certificate, you need to submit 2 out of 3 course projects and review 3 peers’ projects by the deadline. For example, joining at the end of November and completing two projects would still make you eligible for a certificate.","Yes, you can. You won’t be able to submit some of the homeworks, but you can still take part in the course.
 In order to get a certificate, you need to submit 2 out of 3 course projects and review 3 peers’ Projects by the deadline. It means that if you join the course at the end of November and manage to work on two projects, you will still be eligible for a certificate.",ee58a693,"If I join the course late, can I still participate?",machine-learning-zoomcamp
-"Yes. You can join after it has started, though you won’t be able to submit some of the homeworks. To obtain a certificate, you need to submit 2 out of 3 course projects and review 3 peers’ projects by the deadline. For example, if you join at the end of November and complete two projects, you would still be eligible for a certificate.","Yes, you can. You won’t be able to submit some of the homeworks, but you can still take part in the course.
+"Yes. You can join after the course has started. You won’t be able to submit some of the homeworks, but you can still participate. To obtain a certificate, you need to submit 2 out of 3 course projects and review 3 peers’ projects by the deadline. So even if you join late (e.g., end of November) and complete two projects, you will still be eligible for the certificate.","Yes, you can. You won’t be able to submit some of the homeworks, but you can still take part in the course.
 In order to get a certificate, you need to submit 2 out of 3 course projects and review 3 peers’ Projects by the deadline. It means that if you join the course at the end of November and manage to work on two projects, you will still be eligible for a certificate.",ee58a693,Will I be able to obtain a certificate if I join the course after it has started?,machine-learning-zoomcamp
-You need to submit at least 2 of the 3 course projects (and you must review 3 peers’ projects) to be eligible for a certificate.,"Yes, you can. You won’t be able to submit some of the homeworks, but you can still take part in the course.
+You must submit at least 2 of the 3 course projects to be eligible for a certificate (and you also need to review 3 peers’ projects by the deadline).,"Yes, you can. You won’t be able to submit some of the homeworks, but you can still take part in the course.
 In order to get a certificate, you need to submit 2 out of 3 course projects and review 3 peers’ Projects by the deadline. It means that if you join the course at the end of November and manage to work on two projects, you will still be eligible for a certificate.",ee58a693,How many course projects must I submit to be eligible for a certificate?,machine-learning-zoomcamp
-You must review 3 peers’ projects by the deadline (in addition to completing at least 2 out of the 3 projects) to receive a certificate.,"Yes, you can. You won’t be able to submit some of the homeworks, but you can still take part in the course.
+"- You must review at least 3 peers’ projects by the deadline.
+- In addition, you must finish at least 2 out of the 3 projects to qualify for the certificate.
+- If you submit only two projects, you still need to peer-review at least 3 course-mates’ projects for each submission.","Yes, you can. You won’t be able to submit some of the homeworks, but you can still take part in the course.
 In order to get a certificate, you need to submit 2 out of 3 course projects and review 3 peers’ Projects by the deadline. It means that if you join the course at the end of November and manage to work on two projects, you will still be eligible for a certificate.",ee58a693,What is the requirement for peer reviews to get a certificate?,machine-learning-zoomcamp
-"Yes. You can join after the course has started. However, you won’t be able to submit some of the homeworks, but you can still participate in the course. To receive a certificate you need to submit 2 of 3 projects and review 3 peers’ projects by the deadline. So even if you join late (e.g., end of November) and complete two projects, you can still be eligible for a certificate.","Yes, you can. You won’t be able to submit some of the homeworks, but you can still take part in the course.
+"Yes. You can join after the course has started, but you won’t be able to submit all of the homeworks—some may not be available to submit once you join. Submissions are only possible if the submission form is still open; if it’s closed, it’s too late. To earn a certificate, you need to submit 2 out of 3 projects and review 3 peers’ projects by the deadline.","Yes, you can. You won’t be able to submit some of the homeworks, but you can still take part in the course.
 In order to get a certificate, you need to submit 2 out of 3 course projects and review 3 peers’ Projects by the deadline. It means that if you join the course at the end of November and manage to work on two projects, you will still be eligible for a certificate.",ee58a693,Can I submit homework if I join the course after it has started?,machine-learning-zoomcamp
-"Yes. The course is available in self-paced mode, so you can go through the materials at any time. If you prefer to do it as a cohort, the next iterations are planned for September 2023, September 2024, and potentially other Septembers as well.","The course is available in the self-paced mode too, so you can go through the materials at any time. But if you want to do it as a cohort with other students, the next iterations will happen in September 2023, September 2024 (and potentially other Septembers as well).",636f55d5,Is the course available in a self-paced mode?,machine-learning-zoomcamp
-"Yes. The course is available in self-paced mode, so you can start anytime and go through the materials at your own pace. The videos are pre-recorded, so you can begin right now. If you prefer a cohort, the next iterations are scheduled for September 2023 and September 2024 (and potentially other Septembers as well). If you join late, you can still participate; to get a certificate you need to submit 2 out of 3 projects and review 3 peers’ projects by the deadline.","The course is available in the self-paced mode too, so you can go through the materials at any time. But if you want to do it as a cohort with other students, the next iterations will happen in September 2023, September 2024 (and potentially other Septembers as well).",636f55d5,Can I start the course anytime?,machine-learning-zoomcamp
-"The next cohort iterations are scheduled for September 2023 and September 2024 (and potentially other Septembers as well). If you prefer, you can also do the course in self-paced mode at any time.","The course is available in the self-paced mode too, so you can go through the materials at any time. But if you want to do it as a cohort with other students, the next iterations will happen in September 2023, September 2024 (and potentially other Septembers as well).",636f55d5,When is the next cohort starting?,machine-learning-zoomcamp
-"- The course materials are self-paced, so you can access and work through them at any time (no fixed schedule for the materials).
-- If you want to join a cohort, the next iterations are planned to start in September 2023, September 2024, and potentially other Septembers.
-- The course videos are pre-recorded and can be watched now; office hours are occasional and recorded.","The course is available in the self-paced mode too, so you can go through the materials at any time. But if you want to do it as a cohort with other students, the next iterations will happen in September 2023, September 2024 (and potentially other Septembers as well).",636f55d5,Are there set times for the course materials?,machine-learning-zoomcamp
-"Yes. If you want to do it as a cohort, the next iterations will happen in September 2023 and September 2024 (and potentially other Septembers as well). The course is also available in self-paced mode, so you can start anytime.","The course is available in the self-paced mode too, so you can go through the materials at any time. But if you want to do it as a cohort with other students, the next iterations will happen in September 2023, September 2024 (and potentially other Septembers as well).",636f55d5,Will there be iterations in future Septembers?,machine-learning-zoomcamp
-"It depends on the submission window. If the form is still open, you can submit your homework and it will be evaluated. If the form is closed (after the due date), it’s too late. Note: homework is not mandatory for finishing the course.","No, it’s not possible. The form is closed after the due date. But don’t worry, homework is not mandatory for finishing the course.",c839b764,Can I send in my homework late?,machine-learning-zoomcamp
-"- Generally not feasible: the submission form closes after the due date.
-- Caveat: if the submission form is still open after the due date, you can submit and it will be evaluated; if it’s closed, it’s too late.
-- Reminder: homework is not mandatory for finishing the course.","No, it’s not possible. The form is closed after the due date. But don’t worry, homework is not mandatory for finishing the course.",c839b764,Is it feasible to submit homework post deadline?,machine-learning-zoomcamp
-"- The submission form closes after the due date, so you can’t submit once it’s closed.  
-- If the form is still open, you can submit late and it will be evaluated. If it’s closed, it’s too late.  
-- Note: Homework is not mandatory for finishing the course.","No, it’s not possible. The form is closed after the due date. But don’t worry, homework is not mandatory for finishing the course.",c839b764,What happens if I miss the homework submission deadline?,machine-learning-zoomcamp
-"- No. The form is closed after the due date.
+"Yes. The course is available in self-paced mode, so you can go through the materials at any time. If you want to join a cohort, the next iterations are planned for September 2023 and September 2024 (and potentially other Septembers as well).","The course is available in the self-paced mode too, so you can go through the materials at any time. But if you want to do it as a cohort with other students, the next iterations will happen in September 2023, September 2024 (and potentially other Septembers as well).",636f55d5,Is the course available in a self-paced mode?,machine-learning-zoomcamp
+"Yes. The course is available in self-paced mode, so you can start at any time. If you prefer a cohort setting, the next iterations start in September 2023, September 2024 (and potentially other Septembers). You can access the materials right now via the course page and YouTube playlist.","The course is available in the self-paced mode too, so you can go through the materials at any time. But if you want to do it as a cohort with other students, the next iterations will happen in September 2023, September 2024 (and potentially other Septembers as well).",636f55d5,Can I start the course anytime?,machine-learning-zoomcamp
+"If you want to join as part of a cohort, the next iteration starts in September 2023. There’s also a cohort planned for September 2024, and potentially other September starts in the future. If you prefer, you can do the course in self-paced mode at any time.","The course is available in the self-paced mode too, so you can go through the materials at any time. But if you want to do it as a cohort with other students, the next iterations will happen in September 2023, September 2024 (and potentially other Septembers as well).",636f55d5,When is the next cohort starting?,machine-learning-zoomcamp
+"No fixed times. The course materials are pre-recorded and available for self-paced access—you can start watching right now. There are occasional live office hours, but those sessions are recorded as well. You can find the materials and office hours in the course playlist on YouTube.","The course is available in the self-paced mode too, so you can go through the materials at any time. But if you want to do it as a cohort with other students, the next iterations will happen in September 2023, September 2024 (and potentially other Septembers as well).",636f55d5,Are there set times for the course materials?,machine-learning-zoomcamp
+"Yes. The FAQ states that the next iterations will happen in September 2023, September 2024 (and potentially other Septembers as well). You can also do the course in self-paced mode at any time if you prefer.","The course is available in the self-paced mode too, so you can go through the materials at any time. But if you want to do it as a cohort with other students, the next iterations will happen in September 2023, September 2024 (and potentially other Septembers as well).",636f55d5,Will there be iterations in future Septembers?,machine-learning-zoomcamp
+"It depends on whether the submission form is still open. 
+- If the form is still open, you can submit your homework and it will be evaluated. 
+- If the form is closed (which happens after the due date), it’s too late.
+
+Note: generally the form closes after the due date, and homework is not mandatory for finishing the course.","No, it’s not possible. The form is closed after the due date. But don’t worry, homework is not mandatory for finishing the course.",c839b764,Can I send in my homework late?,machine-learning-zoomcamp
+"- Generally, no. The submission form is closed after the due date.
+- However, if the form remains open, you can submit and it will be evaluated; if it’s closed, it’s too late.
+- Note: Homework is not mandatory for finishing the course.","No, it’s not possible. The form is closed after the due date. But don’t worry, homework is not mandatory for finishing the course.",c839b764,Is it feasible to submit homework post deadline?,machine-learning-zoomcamp
+"- You can’t submit after the due date—the submission form closes once the deadline passes.
 - Homework is not mandatory for finishing the course.
-- If the form happens to still be open, you can submit and it will be evaluated; if it’s closed, it’s too late.","No, it’s not possible. The form is closed after the due date. But don’t worry, homework is not mandatory for finishing the course.",c839b764,"After the due date, can homework still be submitted?",machine-learning-zoomcamp
-"- Official policy: No, you can’t submit after the due date—the submission form closes when the due date passes. Note that homework is not mandatory for finishing the course.
-- Practical nuance: If the submission form is still open when you submit late, it may be evaluated; if the form is closed, it’s too late.","No, it’s not possible. The form is closed after the due date. But don’t worry, homework is not mandatory for finishing the course.",c839b764,Are late homework submissions accepted?,machine-learning-zoomcamp
-"Go to the course page (http://mlzoomcamp.com/), then scroll down and start going through the course materials. Also read everything in the cohort folder for your cohort’s year and start clicking the links to watch the videos.","Welcome to the course! Go to the course page (http://mlzoomcamp.com/), scroll down and start going through the course materials. Then read everything in the cohort folder for your cohort’s year.
+- If you worry about a late submission: if the form is still open, you can submit and it will be evaluated; if the form is closed, it’s too late.","No, it’s not possible. The form is closed after the due date. But don’t worry, homework is not mandatory for finishing the course.",c839b764,What happens if I miss the homework submission deadline?,machine-learning-zoomcamp
+"No. After the due date the submission form is closed, so you cannot submit homework. Note that homework is not mandatory for finishing the course.","No, it’s not possible. The form is closed after the due date. But don’t worry, homework is not mandatory for finishing the course.",c839b764,"After the due date, can homework still be submitted?",machine-learning-zoomcamp
+"- Generally, no. The homework form closes after the due date, so late submissions aren’t accepted.
+- If the form is still open when you submit late, it will be evaluated. If the form is closed, it’s too late.
+- Note: Homework is not mandatory for finishing the course.","No, it’s not possible. The form is closed after the due date. But don’t worry, homework is not mandatory for finishing the course.",c839b764,Are late homework submissions accepted?,machine-learning-zoomcamp
+"The initial step is: go to the course page (http://mlzoomcamp.com/), scroll down, and start going through the course materials. Then read everything in the cohort folder for your cohort’s year, click the links, and start watching the videos. You can also watch office hours from previous cohorts on the DTC YouTube channel and use http://mlzoomcamp.com/#syllabus.","Welcome to the course! Go to the course page (http://mlzoomcamp.com/), scroll down and start going through the course materials. Then read everything in the cohort folder for your cohort’s year.
 Click on the links and start watching the videos. Also watch office hours from previous cohorts. Go to DTC youtube channel and click on Playlists and search for {course yyyy}. ML Zoomcamp was first launched in 2021.
 Or you can just use this link: http://mlzoomcamp.com/#syllabus",0a278fb2,What is the initial step after joining the course?,machine-learning-zoomcamp
 "- Go to the course page: http://mlzoomcamp.com/
-- Scroll down and start going through the course materials.
-- Read everything in the cohort folder for your cohort’s year.
-- Click the links to start watching the videos.
-- Office hours from previous cohorts are available as well (they’re recorded). You can view these in the course playlist on YouTube.
-- You can also check the DTC YouTube channel: go to Playlists and search for the course year (e.g., {course yyyy}).
-- If you prefer, you can use http://mlzoomcamp.com/#syllabus to view the syllabus.","Welcome to the course! Go to the course page (http://mlzoomcamp.com/), scroll down and start going through the course materials. Then read everything in the cohort folder for your cohort’s year.
+- Scroll down to the course materials and open the cohort folder for your year
+- Click the links to start watching the videos
+- Watch the office hours from previous cohorts (they’re recorded)
+- You can also use the course playlist on YouTube: go to the DTC YouTube channel, click Playlists, and search for the course year (e.g., {course yyyy})
+- Or use the direct syllabus link: http://mlzoomcamp.com/#syllabus
+
+Notes: The course videos are pre-recorded, and office hours are occasional live sessions that are also recorded.","Welcome to the course! Go to the course page (http://mlzoomcamp.com/), scroll down and start going through the course materials. Then read everything in the cohort folder for your cohort’s year.
 Click on the links and start watching the videos. Also watch office hours from previous cohorts. Go to DTC youtube channel and click on Playlists and search for {course yyyy}. ML Zoomcamp was first launched in 2021.
 Or you can just use this link: http://mlzoomcamp.com/#syllabus",0a278fb2,How can I view the content of the course?,machine-learning-zoomcamp
-"- The materials are in the cohort folder for your cohort’s year on the course site.
-- How to access: go to the course page (http://mlzoomcamp.com/), scroll down, and open the cohort folder for your year. Click the links to watch the videos and read all materials.
-- You can also watch office hours from previous cohorts and check the DTC YouTube channel by going to Playlists and searching for the course year (e.g., {course yyyy}).
-- If you prefer, you can view the syllabus at http://mlzoomcamp.com/#syllabus.","Welcome to the course! Go to the course page (http://mlzoomcamp.com/), scroll down and start going through the course materials. Then read everything in the cohort folder for your cohort’s year.
+"You can find the materials on the course page:
+
+- Go to http://mlzoomcamp.com/ (or http://mlzoomcamp.com/#syllabus)
+- Scroll down and access the course materials
+- Open the cohort folder for your year and read everything there
+- Click the links to watch videos, and check office hours from previous cohorts
+- For videos, you can also use the DTC YouTube channel by going to Playlists and searching for your course year (e.g., the {course yyyy} playlist)
+
+Notes: ML Zoomcamp was first launched in 2021.","Welcome to the course! Go to the course page (http://mlzoomcamp.com/), scroll down and start going through the course materials. Then read everything in the cohort folder for your cohort’s year.
 Click on the links and start watching the videos. Also watch office hours from previous cohorts. Go to DTC youtube channel and click on Playlists and search for {course yyyy}. ML Zoomcamp was first launched in 2021.
 Or you can just use this link: http://mlzoomcamp.com/#syllabus",0a278fb2,Where can I find the materials related to my cohort?,machine-learning-zoomcamp
-"- The office hours videos (including previous sessions) are in the course playlist on YouTube, alongside the pre-recorded course videos.
-- To browse by cohort, go to the DTC YouTube channel, click Playlists, and search for the course year (e.g., {course yyyy}) to find previous office hours.","Welcome to the course! Go to the course page (http://mlzoomcamp.com/), scroll down and start going through the course materials. Then read everything in the cohort folder for your cohort’s year.
+"- They are available in the course playlist on YouTube. The office hours sessions are recorded and you can watch them there along with the pre-recorded course videos.
+- To find them, go to the DTC YouTube channel, click Playlists, and search for the course year (e.g., the {course yyyy} playlist). You can also browse the course playlist on YouTube directly.","Welcome to the course! Go to the course page (http://mlzoomcamp.com/), scroll down and start going through the course materials. Then read everything in the cohort folder for your cohort’s year.
 Click on the links and start watching the videos. Also watch office hours from previous cohorts. Go to DTC youtube channel and click on Playlists and search for {course yyyy}. ML Zoomcamp was first launched in 2021.
 Or you can just use this link: http://mlzoomcamp.com/#syllabus",0a278fb2,How do I access the videos from previous office hours?,machine-learning-zoomcamp
 ML Zoomcamp was first launched in 2021.,"Welcome to the course! Go to the course page (http://mlzoomcamp.com/), scroll down and start going through the course materials. Then read everything in the cohort folder for your cohort’s year.
 Click on the links and start watching the videos. Also watch office hours from previous cohorts. Go to DTC youtube channel and click on Playlists and search for {course yyyy}. ML Zoomcamp was first launched in 2021.
 Or you can just use this link: http://mlzoomcamp.com/#syllabus",0a278fb2,When was ML Zoomcamp first introduced?,machine-learning-zoomcamp
-You can find them on the 2023 cohort page—the deadlines are listed there.,"For the 2023 cohort, you can see the deadlines here (it’s taken from the 2023 cohort page)",8de4fefd,Where can I find the deadlines for the 2023 cohort?,machine-learning-zoomcamp
-On the 2023 cohort page — the deadlines are listed there.,"For the 2023 cohort, you can see the deadlines here (it’s taken from the 2023 cohort page)",8de4fefd,Where is the deadline information available for the 2023 cohort?,machine-learning-zoomcamp
-Check the deadlines on the 2023 cohort page (the deadlines are listed there).,"For the 2023 cohort, you can see the deadlines here (it’s taken from the 2023 cohort page)",8de4fefd,How do I check the deadlines for the 2023 course?,machine-learning-zoomcamp
-The 2023 cohort deadlines are on the 2023 cohort page.,"For the 2023 cohort, you can see the deadlines here (it’s taken from the 2023 cohort page)",8de4fefd,Can you show me where to see the 2023 cohort deadlines?,machine-learning-zoomcamp
-On the 2023 cohort page — the deadlines are listed there (the “deadlines here” link points to the 2023 cohort page).,"For the 2023 cohort, you can see the deadlines here (it’s taken from the 2023 cohort page)",8de4fefd,Where are the 2023 cohort deadlines listed?,machine-learning-zoomcamp
-"Not much has changed. The 2022 course had a special BentoML module; aside from that, the modules are the same as in 2022. The homework for 2023 is different.","There’s not much difference. There was one special module (BentoML) in the previous iteration of the course, but the rest of the modules are the same as in 2022. The homework this year is different.",94e86808,What has changed between the 2022 and 2023 versions of the course?,machine-learning-zoomcamp
-"Yes. BentoML was a special module in 2022, but it’s not included in the 2023 course. The rest of the modules are the same as 2022; only the homework differs.","There’s not much difference. There was one special module (BentoML) in the previous iteration of the course, but the rest of the modules are the same as in 2022. The homework this year is different.",94e86808,Is there any module missing in the 2023 course compared to 2022?,machine-learning-zoomcamp
-"No. The homework in 2023 is different from 2022. The rest of the modules are largely the same, with BentoML being the special module in 2022.","There’s not much difference. There was one special module (BentoML) in the previous iteration of the course, but the rest of the modules are the same as in 2022. The homework this year is different.",94e86808,Are the homework assignments in the 2023 course the same as in 2022?,machine-learning-zoomcamp
-"Yes. BentoML was included as a special module in the 2022 course, but it was not included in the 2023 course (the rest of the modules remained the same).","There’s not much difference. There was one special module (BentoML) in the previous iteration of the course, but the rest of the modules are the same as in 2022. The homework this year is different.",94e86808,Was BentoML included in the 2022 course but not in the 2023 course?,machine-learning-zoomcamp
-"Yes. There’s not much difference between 2022 and 2023; the rest of the modules are the same as in 2022, with one special module (BentoML) in the previous iteration. The homework this year is different.","There’s not much difference. There was one special module (BentoML) in the previous iteration of the course, but the rest of the modules are the same as in 2022. The homework this year is different.",94e86808,Are the majority of modules unchanged from the 2022 course?,machine-learning-zoomcamp
+On the 2023 cohort page — the deadlines are listed there.,"For the 2023 cohort, you can see the deadlines here (it’s taken from the 2023 cohort page)",8de4fefd,Where can I find the deadlines for the 2023 cohort?,machine-learning-zoomcamp
+On the 2023 cohort page (the deadlines are shown there).,"For the 2023 cohort, you can see the deadlines here (it’s taken from the 2023 cohort page)",8de4fefd,Where is the deadline information available for the 2023 cohort?,machine-learning-zoomcamp
+Check the deadlines on the 2023 cohort page—the deadlines for the 2023 course are listed there.,"For the 2023 cohort, you can see the deadlines here (it’s taken from the 2023 cohort page)",8de4fefd,How do I check the deadlines for the 2023 course?,machine-learning-zoomcamp
+"Yes. For the 2023 cohort, you can see the deadlines here (it's taken from the 2023 cohort page).","For the 2023 cohort, you can see the deadlines here (it’s taken from the 2023 cohort page)",8de4fefd,Can you show me where to see the 2023 cohort deadlines?,machine-learning-zoomcamp
+On the 2023 cohort page.,"For the 2023 cohort, you can see the deadlines here (it’s taken from the 2023 cohort page)",8de4fefd,Where are the 2023 cohort deadlines listed?,machine-learning-zoomcamp
+Not much difference overall. There was one special module (BentoML) in the 2022 iteration; the rest of the modules are the same as in 2022. The homework for 2023 is different.,"There’s not much difference. There was one special module (BentoML) in the previous iteration of the course, but the rest of the modules are the same as in 2022. The homework this year is different.",94e86808,What has changed between the 2022 and 2023 versions of the course?,machine-learning-zoomcamp
+Yes. BentoML was a special module in the 2022 course but is not included in the 2023 course; all the other modules are the same as in 2022. (Note: the homework this year is different.),"There’s not much difference. There was one special module (BentoML) in the previous iteration of the course, but the rest of the modules are the same as in 2022. The homework this year is different.",94e86808,Is there any module missing in the 2023 course compared to 2022?,machine-learning-zoomcamp
+"No. The homework in 2023 is different from 2022. The rest of the modules are largely the same, with BentoML being a special module in the previous iteration.","There’s not much difference. There was one special module (BentoML) in the previous iteration of the course, but the rest of the modules are the same as in 2022. The homework this year is different.",94e86808,Are the homework assignments in the 2023 course the same as in 2022?,machine-learning-zoomcamp
+"Yes. BentoML was included as a special module in the 2022 course, but the 2023 course did not include it.","There’s not much difference. There was one special module (BentoML) in the previous iteration of the course, but the rest of the modules are the same as in 2022. The homework this year is different.",94e86808,Was BentoML included in the 2022 course but not in the 2023 course?,machine-learning-zoomcamp
+"Yes. There’s not much difference—the majority of modules are the same as in 2022. There was one special module (BentoML) in the previous iteration, and the rest of the modules are the same. The homework this year is different.","There’s not much difference. There was one special module (BentoML) in the previous iteration of the course, but the rest of the modules are the same as in 2022. The homework this year is different.",94e86808,Are the majority of modules unchanged from the 2022 course?,machine-learning-zoomcamp
